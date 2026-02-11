@@ -11,7 +11,7 @@ status:
 role: Early-career scientist
 emails: mateus_paiva@id.uff.br | mateus.paiva@int.gov.br
 bio: |
-  Early-career researcher with international training in icon: "🇧🇷" Brazil and  icon:"🇫🇷" France and +10 years of experience in heterogeneous catalysis.
+  Early-career researcher with international training in - icon: "🇧🇷" Brazil and  - icon:"🇫🇷" France and +10 years of experience in heterogeneous catalysis.
   Dedicated to advancing sustainable chemical processes and the efficient use of renewable resources.
 
 affiliations:
@@ -22,12 +22,10 @@ links:
   - icon: at-symbol
     url: mailto:mateus_paiva@id.uff.br
     label: E-mail Me
-  - icon: import {IdBadgeIcon} from '@primer/octicons-react' <IdBadgeIcon size={10} />
+  - icon: 🪪
     url: https://researchid.co/mfrpaiva
-  - icon: brands/linkedin
-    url: www.linkedin.com/in/mfrpaiva
-  - icon: brands/researchgate
-    url: https://www.researchgate.net/profile/Mateus-Paiva
+  - icon: 
+    url: https://www.linkedin.com/in/mfrpaiva
 
 interests:
   - Web Development
