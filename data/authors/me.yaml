@@ -20,14 +20,14 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
+    url: mailto:mateus_paiva@id.uff.br
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/alexjohnson
+  - icon: import {IdBadgeIcon} from '@primer/octicons-react' <IdBadgeIcon size={10} />
+    url: https://researchid.co/mfrpaiva
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
-  - icon: brands/x
-    url: https://x.com/alexjohnson
+    url: www.linkedin.com/in/mfrpaiva
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Mateus-Paiva
 
 interests:
   - Web Development
