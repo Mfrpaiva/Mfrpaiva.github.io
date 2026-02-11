@@ -2,17 +2,17 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Mateus F. Paiva
+  given: Mateus F.
+  family: Paiva
 postnominals: []
 status:
-  icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
+  icon: "🔬"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
+role: Early-career scientist
+emails: mateus_paiva@id.uff.br | mateus.paiva@int.gov.br
 bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
+  Early-career researcher with international training in Brazil and France and over a decade of experience in heterogeneous catalysis.
+  Dedicated to advancing sustainable chemical processes and the efficient use of renewable resources.
 
 affiliations:
   - name: Tech Corp
