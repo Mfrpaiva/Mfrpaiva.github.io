@@ -20,12 +20,10 @@ sections:
       show_scroll_indicator: true
       typewriter:
         enable: true
-        prefix: "I build"
+        prefix: "Catalyzing"
         strings:
-          - "full-stack web apps"
-          - "scalable APIs"
-          - "beautiful UIs"
-          - "open source tools"
+          - "reactions"
+          - "people"
         type_speed: 70
         delete_speed: 40
         pause_time: 2500
