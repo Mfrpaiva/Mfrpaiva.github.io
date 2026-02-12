@@ -219,8 +219,8 @@ sections:
       subtitle: "Let's build something amazing together"
       text: |-
         I'm always interested in hearing about new projects and opportunities.
-        Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
-      email: alex@example.com
+        Whether you're looking to collaborate or just want to say hi, feel free to reach out!
+      email: mateus_paiva@id.uff.br
       autolink: true
     design:
       columns: '1'
