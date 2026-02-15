@@ -28,7 +28,7 @@ sections:
         delete_speed: 40
         pause_time: 2500
       cta_buttons:
-        - text: View My Work
+        - text: View Info and Works
           url: "#projects"
           icon: arrow-down
         - text: Get In Touch
@@ -44,6 +44,23 @@ sections:
           dark: "#0a0a0f"
       spacing:
         padding: ["6rem", "0", "4rem", "0"]
+
+     # Bio Section
+  - block: contact-info
+    id: Biography
+    content:
+      title: Biography
+      subtitle: "Let's build something amazing together"
+      text: |-
+       Early-career researcher in heterogeneous catalysis and sustainable lignocellulosic biomass valorization with international training in Brazil, France, and the Netherlands. PhD in Materials Chemistry from the Université de Lille (PEARL i-site / MSCA ecosystem) with European Doctorate Label. Currently a postdoctoral researcher at the Federal Fluminense University (UFF) and the National Institute of Technology (INT) 􀂱Brazil, and, supported by the Brazilian National Council for Scientific and Technological Development (CNPq). Strong publication record, peer-review activity, and experience mentoring students and leading interdisciplinary research projects, with active engagement in scientific outreach and research communication to promote accessible, evidence-based science.
+    design:
+      columns: '1'
+      background:
+        color:
+          light: "#ffffff"
+          dark: "#0d0d12"
+      spacing:
+        padding: ["4rem", "0", "4rem", "0"]
   
   # Filterable Portfolio - Alpine.js powered project filtering
   - block: portfolio
