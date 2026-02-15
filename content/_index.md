@@ -46,7 +46,7 @@ sections:
         padding: ["6rem", "0", "4rem", "0"]
 
      # Bio Section
-  - block: contact-info
+  - block: markdown
     id: Biography
     content:
       title: Biography
