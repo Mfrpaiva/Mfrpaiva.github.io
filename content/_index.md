@@ -52,10 +52,23 @@ sections:
       title: Biography
       subtitle: "Let's build something amazing together"
       text: |-
-       Early-career researcher in heterogeneous catalysis and sustainable lignocellulosic biomass valorization with international training in Brazil, France, and the Netherlands. PhD in Materials Chemistry from the Université de Lille (PEARL i-site / MSCA ecosystem) with European Doctorate Label. Currently a postdoctoral researcher at the Federal Fluminense University (UFF) and the National Institute of Technology (INT) 􀂱Brazil, and, supported by the Brazilian National Council for Scientific and Technological Development (CNPq). Strong publication record, peer-review activity, and experience mentoring students and leading interdisciplinary research projects, with active engagement in scientific outreach and research communication to promote accessible, evidence-based science.
+      <div style="display: flex; align-items: center; gap: 40px;">
+
+      <div style="flex: 1; text-align: justify;">
+      
+      ## Early-career researcher in heterogeneous catalysis and sustainable lignocellulosic biomass valorization with international training in Brazil, France, and the Netherlands. PhD in Materials Chemistry from the Université de Lille (PEARL i-site / MSCA ecosystem) with European Doctorate Label. Currently a postdoctoral researcher at the Federal Fluminense University (UFF) and the National Institute of Technology (INT) 􀂱Brazil, and, supported by the Brazilian National Council for Scientific and Technological Development (CNPq). Strong publication record, peer-review activity, and experience mentoring students and leading interdisciplinary research projects, with active engagement in scientific outreach and research communication to promote accessible, evidence-based science.
+      
+      </div>
+
+      <div style="flex: 1; text-align: center;">
+      
+      <img src="/media/demo.gif" style="max-width: 100%; border-radius: 10px;" />
+
+      </div>
+
+      </div>
     design:
-      columns: '1'
-      css_class: wide-section
+      columns: '2'
       background:
         color:
           light: "#ffffff"
