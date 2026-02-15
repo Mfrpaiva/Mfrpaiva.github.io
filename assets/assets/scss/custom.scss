@@ -1,0 +1,15 @@
+/* Aumentar largura da seção */
+.wide-section .container {
+  max-width: 1200px !important;
+}
+
+/* Justificar texto */
+.wide-section p {
+  text-align: justify;
+}
+
+/* Aumentar tamanho da fonte */
+.wide-section {
+  font-size: 1.15rem;
+  line-height: 1.8;
+}
