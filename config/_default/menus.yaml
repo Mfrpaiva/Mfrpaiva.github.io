@@ -11,19 +11,19 @@ main:
     weight: 20
   - name: Education
     url: /#education
-    weight: 10
+    weight: 30
   - name: Experience
     url: /#experience
-    weight: 30
+    weight: 40
   - name: Projects
     url: /#projects
-    weight: 10
+    weight: 50
   - name: Scientific Contributions 
     url: /#scientificcontributions 
-    weight: 10
+    weight: 60
   - name: Blog
     url: /#blog
-    weight: 40
+    weight: 70
   - name: Contact
     url: /#contact
-    weight: 50
+    weight: 80
