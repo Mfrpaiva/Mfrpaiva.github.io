@@ -36,10 +36,32 @@ interests:
   - Developer Experience
 
 education:
-  - degree: B.S. Chemistry
+  - degree: PhD. Materials Chemistry
+    institution: University of Lille - France
+    start: 2021-09-01
+    end: 2024-12-12
+    summary: |
+      Focus on software engineering and distributed systems.
+      Senior project on distributed caching systems.
+    button:
+      text: View Project
+      url: https://github.com/alexjohnson/senior-project
+      icon: brands/github
+  - degree: M.Sc. Chemistry
     institution: University of Brasília - Brazil
-    start: 2015-09-01
-    end: 2019-05-31
+    start: 2019-08-01
+    end: 2021-05-31
+    summary: |
+      Focus on software engineering and distributed systems.
+      Senior project on distributed caching systems.
+    button:
+      text: View Project
+      url: https://github.com/alexjohnson/senior-project
+      icon: brands/github
+  - degree: B.Sc. Chemistry
+    institution: University of Brasília - Brazil
+    start: 2013-08-01
+    end: 2018-06-31
     summary: |
       Focus on software engineering and distributed systems.
       Senior project on distributed caching systems.
