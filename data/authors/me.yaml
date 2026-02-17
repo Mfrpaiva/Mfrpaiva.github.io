@@ -11,8 +11,8 @@ status:
 role: Early-career scientist
 emails: mateus_paiva@id.uff.br | mateus.paiva@int.gov.br
 bio: |
-  Early-career researcher with international training in Brazil, France, Netherlands, and +10 years of experience in heterogeneous catalysis.
-  Chemist dedicated to advancing sustainable chemical processes and the efficient use of renewable resources.
+  Early-career researcher with international training in Brazil, France, Netherlands 🌐, and +10 years of experience in heterogeneous catalysis.
+  Chemist dedicated to advancing sustainable chemical processes and the efficient use of renewable resources 🌿🔬.
 
 affiliations:
   - name: Tech Corp
@@ -38,61 +38,53 @@ interests:
 education:
   - degree: PhD. Materials Chemistry
     institution: University of Lille - France
-    start: 2021-09-01
-    end: 2024-12-12
+    start: 2021-09
+    end: 2024-12
     summary: |
-      Focus on software engineering and distributed systems.
-      Senior project on distributed caching systems.
+      Advanced research on biomass valorization through catalysis and combustion kinetics, conducted within a multidisciplinary and multi-project framework.
     button:
-      text: View Project
-      url: https://github.com/alexjohnson/senior-project
-      icon: brands/github
+      text: Access Full Thesis
+      url: https://theses.fr/2024ULILR069
+      icon: 📑
   - degree: M.Sc. Chemistry
     institution: University of Brasília - Brazil
-    start: 2019-08-01
-    end: 2021-05-31
+    start: 2019-08
+    end: 2021-07
     summary: |
-      Focus on software engineering and distributed systems.
-      Senior project on distributed caching systems.
+      Advanced research in Inorganic Chemistry centered on catalytic systems, mechanistic investigation, and structural characterization of materials.
     button:
-      text: View Project
-      url: https://github.com/alexjohnson/senior-project
-      icon: brands/github
+      text: View Dissertation Work
+      url: https://repositorio.unb.br/handle/10482/42017
+      icon: 📒
   - degree: B.Sc. Chemistry
     institution: University of Brasília - Brazil
-    start: 2013-08-01
-    end: 2018-06-31
+    start: 2013-07
+    end: 2018-07
     summary: |
-      Focus on software engineering and distributed systems.
-      Senior project on distributed caching systems.
+      Completed three full academic tracks: Bachelor’s Degree, Teaching Licensure, and Industrial/Technological Chemistry, integrating scientific training, pedagogical qualification, and applied industrial expertise.
     button:
-      text: View Project
-      url: https://github.com/alexjohnson/senior-project
-      icon: brands/github
+      text: Explore Digital Repository
+      url: https://bit.ly/40ffHrC
+      icon: 📚
 
 experience:
-  - role: Senior Software Engineer
-    org: Tech Corp
-    start: 2023-01-01
+  - role: Postdoctoral Researcher 
+    org: Fluminense Federal University and National Institute of Technology - Brazil
+    start: 2024-12
     summary: |
-      Lead development of microservices architecture serving 1M+ users.
-      Improved API response time by 40% through optimization.
-      Mentored team of 5 junior developers.
-  - role: Full-Stack Developer
-    org: Startup Inc
-    start: 2021-06-01
-    end: 2022-12-31
+      💡Leading an independently developed research agenda in catalytic biomass valorization, integrating experimental and data-driven strategies.
+  - role: Junior researcher (Fellow CNRS)/ Doctoral candidate
+    org: University of Lille – France
+    start: 2021-08
+    end: 2024-12
     summary: |
-      Built and deployed 3 production applications from scratch.
-      Implemented CI/CD pipeline reducing deployment time by 60%.
-      Led migration from monolith to microservices architecture.
-  - role: Junior Developer
-    org: Web Agency
-    start: 2020-01-01
-    end: 2021-05-31
+      🔬Designed and implemented integrated biorefinery-inspired strategies for lignocellulosic biomass fractionation; developed heterogeneous catalytic systems for cellulose, hemicellulose, and lignin valorization, including reductive catalytic depolymerization (RCD); conducted combustion and kinetic studies of bio-derived hydrocarbons; collaborated with international research teams and supervised junior researchers.
+  - role: Student researcher (CNPq Fellow)
+    org: University of Brasília
+    start: 2014-01
+    end: 2021-08
     summary: |
-      Developed client websites using React and modern web technologies.
-      Participated in code reviews and agile ceremonies.
+      ⚗️Synthesized and characterized heterogeneous catalysts (heteropolyacids, zeolites, mesoporous materials); performed catalytic reactions including esterification, sugar dehydration, polymerization, and biomass-derived transformations; served as teaching assistant (academic monitoring) for multiple undergraduate chemistry courses, supporting instruction, laboratory activities, and student learning.
 
 skills:
   - name: Development
