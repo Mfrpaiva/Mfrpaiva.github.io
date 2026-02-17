@@ -11,7 +11,7 @@ status:
 role: Early-career scientist
 emails: mateus_paiva@id.uff.br | mateus.paiva@int.gov.br
 bio: |
-  Early-career researcher with international training in Brazil, France, Netherlands 🌐, and +10 years of experience in heterogeneous catalysis.
+  Early-career researcher with international training in Brazil, France, Netherlands, and +10 years of experience in heterogeneous catalysis.
   Chemist dedicated to advancing sustainable chemical processes and the efficient use of renewable resources 🌿🔬.
 
 affiliations:
@@ -57,7 +57,7 @@ education:
       url: https://repositorio.unb.br/handle/10482/42017
       icon: 📒
   - degree: B.Sc. Chemistry
-    institution: University of Brasília - Brazil
+    institution: University of Brasília - 🇧🇷
     start: 2013-07
     end: 2018-07
     summary: |
@@ -73,7 +73,7 @@ experience:
     start: 2024-12
     summary: |
       💡Leading an independently developed research agenda in catalytic biomass valorization, integrating experimental and data-driven strategies.
-  - role: Junior researcher (Fellow CNRS)/ Doctoral candidate
+  - role: Junior researcher (CNRS and MSCA Fellow)/ Doctoral candidate
     org: University of Lille – France
     start: 2021-08
     end: 2024-12
