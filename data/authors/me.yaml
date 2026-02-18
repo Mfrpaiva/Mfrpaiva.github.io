@@ -15,9 +15,9 @@ bio: |
   Chemist dedicated to advancing sustainable chemical processes and the efficient use of renewable resources 🌿🔬.
 
 affiliations:
-  - name: Tech Corp
-    url: https://techcorp.example.com
-
+  - name: UFF and INT 
+    url: https://ppgq-uff.com.br/pos-doutorandos
+    
 links:
   - icon: at-symbol
     link: mailto:mateus_paiva@id.uff.br
@@ -30,14 +30,15 @@ links:
     label: LinkedIn
 
 interests:
-  - Web Development
-  - Cloud Architecture
-  - Open Source
-  - Developer Experience
+  - Biomass Valorization and Biorefineries
+  - Sustainable and Heterogeneous Catalysis
+  - Academic Career Development and Research Mentorship
+  - Open Science and Scientific Collaboration
+  - Science Communication and Public Engagement
 
 education:
   - degree: PhD. Materials Chemistry
-    institution: University of Lille - France
+    institution: University of Lille – France
     start: 2021-09
     end: 2024-12
     summary: |
@@ -47,7 +48,7 @@ education:
       url: https://theses.fr/2024ULILR069
       icon: 📑
   - degree: M.Sc. Chemistry
-    institution: University of Brasília - Brazil
+    institution: University of Brasília – Brazil
     start: 2019-08
     end: 2021-07
     summary: |
@@ -57,7 +58,7 @@ education:
       url: https://repositorio.unb.br/handle/10482/42017
       icon: 📒
   - degree: B.Sc. Chemistry
-    institution: University of Brasília - 🇧🇷
+    institution: University of Brasília – Brazil
     start: 2013-07
     end: 2018-07
     summary: |
@@ -69,7 +70,7 @@ education:
 
 experience:
   - role: Postdoctoral Researcher 
-    org: Fluminense Federal University and National Institute of Technology - Brazil
+    org: Fluminense Federal University and National Institute of Technology – Brazil
     start: 2024-12
     summary: |
       💡Leading an independently developed research agenda in catalytic biomass valorization, integrating experimental and data-driven strategies.
@@ -80,7 +81,7 @@ experience:
     summary: |
       🔬Designed and implemented integrated biorefinery-inspired strategies for lignocellulosic biomass fractionation; developed heterogeneous catalytic systems for cellulose, hemicellulose, and lignin valorization, including reductive catalytic depolymerization (RCD); conducted combustion and kinetic studies of bio-derived hydrocarbons; collaborated with international research teams and supervised junior researchers.
   - role: Student researcher (CNPq Fellow)
-    org: University of Brasília
+    org: University of Brasília – Brazil
     start: 2014-01
     end: 2021-08
     summary: |
