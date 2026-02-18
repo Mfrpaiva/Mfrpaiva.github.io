@@ -51,8 +51,7 @@ sections:
     content:
       title: Biography
       subtitle: "Let's build something amazing together"
-      text: 
-      Early-career researcher in heterogeneous catalysis and sustainable lignocellulosic biomass valorization with international training in Brazil, France, and the Netherlands. PhD in Materials Chemistry from the Université de Lille (PEARL i-site / MSCA ecosystem) with European Doctorate Label. Currently a postdoctoral researcher at the Federal Fluminense University (UFF) and the National Institute of Technology (INT) 􀂱Brazil, and, supported by the Brazilian National Council for Scientific and Technological Development (CNPq). Strong publication record, peer-review activity, and experience mentoring students and leading interdisciplinary research projects, with active engagement in scientific outreach and research communication to promote accessible, evidence-based science.
+      text: Early-career researcher in heterogeneous catalysis and sustainable lignocellulosic biomass valorization with international training in Brazil, France, and the Netherlands. PhD in Materials Chemistry from the Université de Lille (PEARL i-site / MSCA ecosystem) with European Doctorate Label. Currently a postdoctoral researcher at the Federal Fluminense University (UFF) and the National Institute of Technology (INT) 􀂱Brazil, and, supported by the Brazilian National Council for Scientific and Technological Development (CNPq). Strong publication record, peer-review activity, and experience mentoring students and leading interdisciplinary research projects, with active engagement in scientific outreach and research communication to promote accessible, evidence-based science.
       columns: '2'
       background:
         color:
