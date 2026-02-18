@@ -50,7 +50,7 @@ sections:
     id: biography
     content:
       title: Biography and scientific vision
-text: |
+      text: |
           <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 2rem;">
             <div style="flex: 0 0 35%; min-width: 250px;">
               <img src="/VFB.png" alt="Biography image" style="max-width: 100%; height: auto; border-radius: 8px;">
