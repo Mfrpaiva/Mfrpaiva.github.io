@@ -49,8 +49,7 @@ sections:
   - block: markdown
     id: biography
     content:
-      title: "Biography"
-      subtitle: "Catalyzing people and reactions"
+      title: "Catalyzing people and reactions"
       text: |
         <div class="biography-container" style="display: grid; grid-template-columns: 1fr 0.43fr; gap: 3rem; align-items: center;">
           <div class="biography-text" style="text-align: left; text-align: justify;">
