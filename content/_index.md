@@ -67,7 +67,7 @@ sections:
           dark: "#0f0f14"
       spacing:
         padding: ["1rem", "2rem", "1rem", "2rem"]
-        margin: ["0", "-10%", "0", "-10%"]
+        margin: ["0", "-30%", "0", "-30%"]
     
   # Filterable Portfolio - Alpine.js powered project filtering
   - block: portfolio
