@@ -51,22 +51,24 @@ sections:
     content:
       title: Biography and scientific vision
       text: |
-          <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 2rem;">
-            <div style="flex: 0 0 35%; min-width: 250px;">
-              <img src="/VFB.png" alt="Biography image" style="max-width: 100%; height: auto; border-radius: 8px;">
-            </div>
-            <div style="flex: 1; text-align: justify;">
-              "Catalyzing people and reactions" is more than a motto – it is the principle that has guided both my scientific journey and my way of engaging with others. In chemistry, catalysis accelerates transformation without being consumed. In life, I strive to play a similar role: enabling progress, fostering collaboration, and empowering those around me to go further than they imagined possible. My academic path reflects this dual commitment to scientific advancement and collective growth. I hold a PhD in Materials Chemistry from the Université de Lille (France), awarded within the PEARL i-site / Marie Skłodowska-Curie Actions excellence framework and recognized with the European Doctorate Label. My doctoral research integrated catalysis and combustion toward advanced lignocellulosic biomass valorization, combining fundamental understanding with sustainable technological applications. Originally trained in Chemistry at the University of Brasília (BSc – Bachelor, Teaching Degree, and Industrial Chemistry), I later completed my MSc in Catalysis before pursuing international doctoral training in France and collaborative research experiences in the Netherlands. Today, I serve as a Postdoctoral Researcher at the Federal Fluminense University (UFF) and as a Collaborating Researcher at the National Institute of Technology (INT), supported by Brazil's National Council for Scientific and Technological Development (CNPq). With over a decade of experience in heterogeneous catalysis, I work on the design, preparation, and advanced characterization of supported catalytic materials and their application in biomass fractionation, esterification, dehydration, polymerization, photodegradation, and lignin depolymerization. Beyond publications and interdisciplinary projects, I am deeply engaged in mentoring students, fostering inclusive research environments, and promoting accessible, evidence-based scientific communication. I believe catalysis happens at multiple scales: in molecules, in ideas, and in people. By integrating fundamental science, data-driven approaches, and collaborative networks, my goal is to accelerate sustainable solutions while strengthening a resilient, cooperative scientific community.
+          <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; padding: 2rem;">
+            <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 2rem; max-width: 1400px; margin: 0 auto;">
+              <div style="flex: 0 0 35%; min-width: 250px;">
+                <img src="/VFB.png" alt="Biography image" style="max-width: 100%; height: auto; border-radius: 8px;">
+              </div>
+              <div style="flex: 1; text-align: justify;">
+                "Catalyzing people and reactions" is more than a motto – it is the principle that has guided both my scientific journey and my way of engaging with others. In chemistry, catalysis accelerates transformation without being consumed. In life, I strive to play a similar role: enabling progress, fostering collaboration, and empowering those around me to go further than they imagined possible. My academic path reflects this dual commitment to scientific advancement and collective growth. I hold a PhD in Materials Chemistry from the Université de Lille (France), awarded within the PEARL i-site / Marie Skłodowska-Curie Actions excellence framework and recognized with the European Doctorate Label. My doctoral research integrated catalysis and combustion toward advanced lignocellulosic biomass valorization, combining fundamental understanding with sustainable technological applications. Originally trained in Chemistry at the University of Brasília (BSc – Bachelor, Teaching Degree, and Industrial Chemistry), I later completed my MSc in Catalysis before pursuing international doctoral training in France and collaborative research experiences in the Netherlands. Today, I serve as a Postdoctoral Researcher at the Federal Fluminense University (UFF) and as a Collaborating Researcher at the National Institute of Technology (INT), supported by Brazil's National Council for Scientific and Technological Development (CNPq). With over a decade of experience in heterogeneous catalysis, I work on the design, preparation, and advanced characterization of supported catalytic materials and their application in biomass fractionation, esterification, dehydration, polymerization, photodegradation, and lignin depolymerization. Beyond publications and interdisciplinary projects, I am deeply engaged in mentoring students, fostering inclusive research environments, and promoting accessible, evidence-based scientific communication. I believe catalysis happens at multiple scales: in molecules, in ideas, and in people. By integrating fundamental science, data-driven approaches, and collaborative networks, my goal is to accelerate sustainable solutions while strengthening a resilient, cooperative scientific community.
+              </div>
             </div>
           </div>
     design:
-      full_width: true
       background:
         color:
           light: "#f9f9f9"
           dark: "#0f0f14"
       spacing:
-        padding: ["1rem", "4rem", "1rem", "4rem"]
+        padding: ["0", "0", "0", "0"]
+        margin: ["0", "0", "0", "0"]
     
   # Filterable Portfolio - Alpine.js powered project filtering
   - block: portfolio
