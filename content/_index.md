@@ -49,8 +49,7 @@ sections:
   - block: markdown
     id: biography
     content:
-      title: "About Me"
-      subtitle: "Catalyzing people and reactions"
+      title: "Catalyzing people and reactions"
       text: |
         <div style="display: grid; grid-template-columns: 3fr 1fr; gap: 3rem; align-items: center;">
           <div style="text-align: justify;">
@@ -67,7 +66,7 @@ sections:
           light: "#f9f9f9"
           dark: "#0f0f14"
       spacing:
-        padding: ["4rem", "0", "4rem", "0"]
+        padding: ["4rem", "2rem", "4rem", "2rem"]
 
   # Filterable Portfolio - Alpine.js powered project filtering
   - block: portfolio
