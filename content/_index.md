@@ -44,7 +44,6 @@ sections:
           dark: "#0a0a0f"
       spacing:
         padding: ["6rem", "0", "4rem", "0"]
-
 +++
 title = "Biography"
 +++
