@@ -109,7 +109,7 @@ My academic path reflects this dual commitment to scientific advancement and col
           location: San Francisco, CA
           date_start: '2023-01-01'
           date_end: ''
-          description: |2-
+          description: |-
             * Lead development of microservices architecture serving 1M+ users
             * Improved API response time by 40% through optimization
             * Mentored team of 5 junior developers
@@ -121,7 +121,7 @@ My academic path reflects this dual commitment to scientific advancement and col
           location: Remote
           date_start: '2021-06-01'
           date_end: '2022-12-31'
-          description: |2-
+          description: |-
             * Built and deployed 3 production applications from scratch
             * Implemented CI/CD pipeline reducing deployment time by 60%
             * Collaborated with design team on UI/UX improvements
@@ -133,7 +133,7 @@ My academic path reflects this dual commitment to scientific advancement and col
           location: New York, NY
           date_start: '2020-01-01'
           date_end: '2021-05-31'
-          description: |2-
+          description: |-
             * Developed client websites using modern web technologies
             * Maintained and updated legacy codebases
             * Participated in code reviews and agile ceremonies
