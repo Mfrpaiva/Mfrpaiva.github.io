@@ -60,8 +60,8 @@ sections:
           light: "#f9f9f9"
           dark: "#0f0f14"
       spacing:
-        padding: ["4rem", "1rem", "4rem", "1rem"]
-
+        padding: ["4rem", "0", "4rem", "0"]
+    
   # Filterable Portfolio - Alpine.js powered project filtering
   - block: portfolio
     id: projects
