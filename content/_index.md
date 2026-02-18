@@ -189,8 +189,7 @@ sections:
           light: "#ffffff"
           dark: "#0d0d12"
       spacing:
-        paddin
-    g: ["4rem", "0", "4rem", "0"]
+        padding: ["4rem", "0", "4rem", "0"]
 ---
 
 
