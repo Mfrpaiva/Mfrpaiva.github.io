@@ -60,14 +60,13 @@ sections:
             </div>
           </div>
     design:
-      columns: '1'
+      full_width: true
       background:
         color:
           light: "#f9f9f9"
           dark: "#0f0f14"
       spacing:
-        padding: ["1rem", "2rem", "1rem", "2rem"]
-        margin: ["0", "-50%", "0", "-50%"]
+        padding: ["1rem", "4rem", "1rem", "4rem"]
     
   # Filterable Portfolio - Alpine.js powered project filtering
   - block: portfolio
