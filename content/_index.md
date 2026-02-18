@@ -46,6 +46,9 @@ sections:
         padding: ["6rem", "0", "4rem", "0"]
 
   # Bio Section
+  - block: markdown
+    id: bio
+    content:
   <div class="row">
   <div class="col-60">
     <h2>Catalyzing people and reactions</h2>
