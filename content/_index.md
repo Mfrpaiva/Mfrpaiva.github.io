@@ -56,7 +56,7 @@ sections:
           </div>
           
           <div style="margin-top: 2rem; text-align: center;">
-            <img src="/VF.png" alt="Biography image" style="max-width: 100%; height: auto; border-radius: 8px;">
+            <img src="/VFB.png" alt="Biography image" style="max-width: 100%; height: auto; border-radius: 8px;">
           </div>
     design:
       columns: '1'
