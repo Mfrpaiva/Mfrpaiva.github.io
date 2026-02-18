@@ -49,9 +49,10 @@ sections:
   - block: markdown
     id: Biography
     content:
-      title: "Biography"
+      title: Biography
       subtitle: "Catalyzing people and reactions" 
-      text: |
+
+    text: |
         is more than a motto – it is the principle that has guided both my scientific journey and my way of engaging with others. In chemistry, catalysis accelerates transformation without being consumed. In life, I strive to play a similar role: enabling progress, fostering collaboration, and empowering those around me to go further than they imagined possible. My academic path reflects this dual commitment to scientific advancement and collective growth. I hold a PhD in Materials Chemistry from the Université de Lille (France), awarded within the PEARL i-site / Marie Skłodowska-Curie Actions excellence framework and recognized with the European Doctorate Label. My doctoral research integrated catalysis and combustion toward advanced lignocellulosic biomass valorization, combining fundamental understanding with sustainable technological applications. Originally trained in Chemistry at the University of Brasília (BSc –Bachelor, Teaching Degree, and Industrial Chemistry), I later completed my MSc in Catalysis before pursuing international doctoral training in France and collaborative research experiences in the Netherlands. Today, I serve as a Postdoctoral Researcher at the Federal Fluminense University (UFF) and as a Collaborating Researcher at the National Institute of Technology (INT), supported by Brazil’s National Council for Scientific and Technological Development (CNPq). With over a decade of experience in heterogeneous catalysis, I work on the design, preparation, and advanced characterization of supported catalytic materials and their application in biomass fractionation, esterification, dehydration, polymerization, photodegradation, and lignin depolymerization. Beyond publications and interdisciplinary projects, I am deeply engaged in mentoring students, fostering inclusive research environments, and promoting accessible, evidence-based scientific communication. I believe catalysis happens at multiple scales: in molecules, in ideas, and in people. By integrating fundamental science, data-driven approaches, and collaborative networks, my goal is to accelerate sustainable solutions while strengthening a resilient, cooperative scientific community.
     design:
       background:
