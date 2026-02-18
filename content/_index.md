@@ -54,7 +54,7 @@ sections:
         <style>
           .bio-grid {
             display: grid;
-            grid-template-columns: 6fr 4fr;
+            grid-template-columns: 3fr 7fr;
             gap: 2rem;
             align-items: center;
           }
