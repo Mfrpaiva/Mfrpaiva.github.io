@@ -51,7 +51,8 @@ sections:
     content:
       title: Biography
       subtitle: “Catalyzing people and reactions” 
-      text: is more than a motto – it is the principle that has guided both my scientific journey and my way of engaging with others.
+      text: |
+    is more than a motto – it is the principle that has guided both my scientific journey and my way of engaging with others.
     In chemistry, catalysis accelerates transformation without being consumed. In life, I strive to play a similar role: enabling
 progress, fostering collaboration, and empowering those around me to go further than they imagined possible. My academic path reflects
 this dual commitment to scientific advancement and collective growth. I hold a PhD in Materials Chemistry from the Université de Lille
