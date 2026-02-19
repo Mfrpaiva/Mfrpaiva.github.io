@@ -6,24 +6,21 @@ main:
   - name: Bio
     url: /#biography
     weight: 10
-  - name: Education
-    url: /#education
-    weight: 30
-  - name: Experience
+  - name: Experience and Education
     url: /#experience
     weight: 20
   - name: Projects
     url: /#projects
-    weight: 40
+    weight: 30
   - name: Scientific Contributions 
     url: /#scientificcontributions 
-    weight: 50
+    weight: 40
   - name: Distinctions  
     url: /#distinctions
-    weight: 60
+    weight: 50
   - name: Blog
     url: /#blog
-    weight: 70
+    weight: 60
   - name: Contact
     url: /#contact
-    weight: 80
+    weight: 70
