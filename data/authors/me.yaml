@@ -36,6 +36,25 @@ interests:
   - Open Science and Scientific Collaboration
   - Science Communication and Public Engagement
 
+experience:
+  - role: Postdoctoral Researcher 
+    org: Fluminense Federal University and National Institute of Technology – Brazil
+    start: 2024-12
+    summary: |
+      💡Leading an independently developed research agenda in catalytic biomass valorization, integrating experimental and data-driven strategies.
+  - role: Junior researcher (CNRS and MSCA Fellow)/ Doctoral candidate
+    org: University of Lille – France
+    start: 2021-08
+    end: 2024-12
+    summary: |
+      🔬Designed and implemented integrated biorefinery-inspired strategies for lignocellulosic biomass fractionation; developed heterogeneous catalytic systems for cellulose, hemicellulose, and lignin valorization, including reductive catalytic depolymerization (RCD); conducted combustion and kinetic studies of bio-derived hydrocarbons; collaborated with international research teams and supervised junior researchers.
+  - role: Student researcher (CNPq Fellow)
+    org: University of Brasília – Brazil
+    start: 2014-01
+    end: 2021-08
+    summary: |
+      ⚗️Synthesized and characterized heterogeneous catalysts (heteropolyacids, zeolites, mesoporous materials); performed catalytic reactions including esterification, sugar dehydration, polymerization, and biomass-derived transformations; served as teaching assistant (academic monitoring) for multiple undergraduate chemistry courses, supporting instruction, laboratory activities, and student learning.
+
 education:
   - degree: PhD. Materials Chemistry
     institution: University of Lille – France
@@ -67,25 +86,6 @@ education:
       text: Explore Digital Repository
       url: https://bit.ly/40ffHrC
       icon: 📚
-
-experience:
-  - role: Postdoctoral Researcher 
-    org: Fluminense Federal University and National Institute of Technology – Brazil
-    start: 2024-12
-    summary: |
-      💡Leading an independently developed research agenda in catalytic biomass valorization, integrating experimental and data-driven strategies.
-  - role: Junior researcher (CNRS and MSCA Fellow)/ Doctoral candidate
-    org: University of Lille – France
-    start: 2021-08
-    end: 2024-12
-    summary: |
-      🔬Designed and implemented integrated biorefinery-inspired strategies for lignocellulosic biomass fractionation; developed heterogeneous catalytic systems for cellulose, hemicellulose, and lignin valorization, including reductive catalytic depolymerization (RCD); conducted combustion and kinetic studies of bio-derived hydrocarbons; collaborated with international research teams and supervised junior researchers.
-  - role: Student researcher (CNPq Fellow)
-    org: University of Brasília – Brazil
-    start: 2014-01
-    end: 2021-08
-    summary: |
-      ⚗️Synthesized and characterized heterogeneous catalysts (heteropolyacids, zeolites, mesoporous materials); performed catalytic reactions including esterification, sugar dehydration, polymerization, and biomass-derived transformations; served as teaching assistant (academic monitoring) for multiple undergraduate chemistry courses, supporting instruction, laboratory activities, and student learning.
 
 skills:
   - name: Development
