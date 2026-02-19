@@ -68,9 +68,14 @@ sections:
               </div>
             </div>
           </div>
-    button:
-      text: 'Download Resume'
-      url: uploads/Paiva_Mateus_CV.pdf
+    <div style="margin-top: 2rem; text-align: center;">
+                  <a href="/uploads/Paiva_Mateus_CV.pdf" download style="display: inline-block; padding: 0.75rem 2rem; background-color: #4a9fd8; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; transition: background-color 0.3s ease;">
+                    📄 Download Resume
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
     design:
       background:
         color:
