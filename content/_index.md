@@ -68,6 +68,9 @@ sections:
               </div>
             </div>
           </div>
+    button:
+      text: 'Download Resume'
+      url: uploads/Paiva_Mateus_CV.pdf
     design:
       background:
         color:
