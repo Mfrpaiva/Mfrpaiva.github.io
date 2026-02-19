@@ -58,7 +58,6 @@ sections:
                   <img src="/VFB.png" alt="Biography image" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 0.8rem;">
                   <p style="text-align: center; font-size: 0.85rem; color: #666; margin: 0;">Catalysts simply lower the energy barrier needed for the reaction to proceed!</p>
                 </div>
-                <div>
                 <div style="display: flex; flex-direction: column; align-items: center;">
                   <img src="/VFC.gif" alt="Biography image 2" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 0.8rem;">
                   <p style="text-align: center; font-size: 0.85rem; color: #666; margin: 0;">Science and its entire journey: Learning, Testing and Evolving.</p>
