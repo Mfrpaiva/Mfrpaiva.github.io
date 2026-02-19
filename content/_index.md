@@ -149,11 +149,11 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Full-Stack
+        - name: Research
           tag: Full-Stack
-        - name: Frontend
+        - name: Teaching
           tag: Frontend
-        - name: Backend
+        - name: Community Outreach
           tag: Backend
       default_button_index: 0
       # Archive link auto-shown if more projects exist than 'count' above
