@@ -169,7 +169,41 @@ sections:
           dark: "#0d0d12"
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
-  
+
+  # Scientific Contributions
+  - block: markdown
+    id: scientificcontributions
+    content:
+      title: Scientific Contributions
+      text: |
+          <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; padding: 2rem;">
+            <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 2rem; max-width: 1400px; margin: 0 auto; padding-right: 2rem;">
+              <div style="flex: 0 0 55%; min-width: 250px;">
+                <div style="margin-bottom: 2rem;">
+                  <img src="/P2.png" alt="Biography image" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 0.8rem;">
+                </div>
+              </div>
+              <div style="flex: 1; text-align: justify; font-size: 1.10rem; line-height: 1.6;">
+                <strong style="color: #4a9fd8;">"Catalyzing people and reactions"</strong> is more than a motto – it is the principle that has guided both my scientific journey and my way of engaging with others. In chemistry, catalysis accelerates transformations. In life, I strive to play a similar role: enabling progress, fostering collaboration, and empowering those around me to go further than they imagined possible. My academic path reflects this dual commitment to scientific advancement and collective growth. I hold a PhD in Materials Chemistry from the Université de Lille (France), awarded within the PEARL i-site / Marie Skłodowska-Curie Actions excellence framework and recognized with the European Doctorate Label. My doctoral research integrated catalysis and combustion toward advanced lignocellulosic biomass valorization, combining fundamental understanding with sustainable technological applications. Originally trained in Chemistry at the University of Brasília (BSc – Bachelor, Teaching Degree, and Industrial Chemistry), I later completed my MSc in Catalysis before pursuing international doctoral training in France and collaborative research experiences in the Netherlands. Today, I serve as a Postdoctoral Researcher at the Fluminense Federal University (UFF) and as a Collaborating Researcher at the National Institute of Technology (INT), supported by Brazil's National Council for Scientific and Technological Development (CNPq). With over a decade of experience in heterogeneous catalysis, I work on the design, preparation, and advanced characterization of supported catalytic materials and their application in different reactions, like biomass fractionation and hydrolysis, esterification, sugars dehydration, polymerization, photodegradation, and lignin depolymerization. Beyond publications and interdisciplinary projects, I am deeply engaged in mentoring students, fostering inclusive research environments, and promoting accessible, evidence-based scientific communication. I believe catalysis happens at multiple scales: in molecules, in ideas, and in people. By integrating fundamental science, data-driven approaches, and collaborative networks, my goal is to accelerate sustainable solutions while strengthening a resilient, cooperative scientific community.
+                <br><br>
+                🔎Research Interests: <strong style="color: #4a9fd8;">Heterogeneous catalysis | Biomass valorization | Sustainable materials | Circular processes | Data-driven approaches | Scientific mentoring</strong>
+              <div style="margin-top: 2rem; text-align: center;">
+                <a href="/uploads/Paiva_Mateus_CV.pdf" download style="display: inline-block; padding: 0.75rem 2rem; background-color: #4a9fd8; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; transition: background-color 0.3s ease;">
+                    📄 Download Resume
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+    design:
+      background:
+        color:
+          light: "#f9f9f9"
+          dark: "#0f0f14"
+      spacing:
+        padding: ["0", "0", "0", "0"]
+        margin: ["0", "0", "0", "0"]
+    
   # Recent Blog Posts
   - block: collection
     id: blog
