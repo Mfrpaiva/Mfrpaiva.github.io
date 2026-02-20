@@ -245,6 +245,23 @@ sections:
           dark: "#0d0d12"
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
+
+    # Final Phrase
+  - block: markdown
+    id: 
+    content:
+      title: 
+      subtitle: 
+      text: |-
+        “There are countless definitions of purpose, but the most meaningful one, to me, is when we think about the sunflower. Everyone knows that it turns toward the Sun. What not everyone knows is that, when there is little sunlight, sunflowers turn toward one another to share light. Purpose is exactly that: directing our potential in order to impact other people and the world.” — Arnaldo Neto
+    design:
+      columns: '1'
+      background:
+        color:
+          light: "#ffffff"
+          dark: "#0d0d12"
+      spacing:
+        padding: ["4rem", "0", "4rem", "0"]
 ---
 
 
