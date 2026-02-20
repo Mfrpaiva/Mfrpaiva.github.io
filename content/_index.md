@@ -192,9 +192,10 @@ sections:
                   </a>
               <div style="text-align: justify; font-size: 1.1rem; line-height: 1.6;">
                 <strong style="color: #4a9fd8;"></strong><br><br>Beyond traditional outputs, my work is closely linked to extension and science communication initiatives. This includes outreach projects such as the award-winning video
-                  <a href="https://youtu.be/psEIIGJiRBM?si=hnWwRUU0Y9dSXGNV" target="_blank" rel="noopener">
-                  </a>
-                  <strong style="color: #4a9fd8;">“De Instante Disponível, uma Força Útil”</strong> (Brazilian Catalysis Society – SBCat, 2020), as well as educational research on student retention and dropout in chemistry programs. Further details can be found in the <strong style="color: #4a9fd8;">Projects section</strong>.
+<a href="https://youtu.be/psEIIGJiRBM?si=eYuQBZ_BH9v4Uu_M" target="_blank" rel="noopener noreferrer">
+  <strong style="color: #4a9fd8;">“From a moment available, a useful force”</strong>
+</a>
+(Brazilian Catalysis Society – SBCat, 2020), as well as educational research on student retention and dropout in chemistry programs. Further details can be found in the <strong style="color: #4a9fd8;">Projects section</strong>.
             </div>
           </div>
     design:
