@@ -190,7 +190,8 @@ sections:
                   <a href="/uploads/Publications_MFP.pdf" download style="display: inline-block; padding: 0.75rem 2rem; background-color: #4a9fd8; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; transition: background-color 0.3s ease;">
                     📄 Download Publication Record
                   </a>
-                <strong style="color: #4a9fd8;"></strong><br><br><text-align: justify; font-size: 1.10rem; line-height: 1.6;">Beyond traditional academic outputs, my work is closely linked to extension and science communication initiatives. This includes outreach projects such as the award-winning video <strong style="color: #4a9fd8;">“De Instante Disponível, uma Força Útil”</strong> (Video Destaque Award, Brazilian Catalysis Society – SBCat), as well as educational research on student retention and dropout in chemistry programs. Further details can be found in the <strong style="color: #4a9fd8;">Community Outreach - Projects section”</strong>.
+              <div style="text-align: justify; font-size: 1.1rem; line-height: 1.6;">
+                <strong style="color: #4a9fd8;"></strong><br><br>Beyond traditional academic outputs, my work is closely linked to extension and science communication initiatives. This includes outreach projects such as the award-winning video <strong style="color: #4a9fd8;">“De Instante Disponível, uma Força Útil”</strong> (Video Destaque Award, Brazilian Catalysis Society – SBCat), as well as educational research on student retention and dropout in chemistry programs. Further details can be found in the <strong style="color: #4a9fd8;">Community Outreach - Projects section”</strong>.
             </div>
           </div>
     design:
