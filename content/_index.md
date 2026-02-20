@@ -170,7 +170,7 @@ sections:
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
 
-  # Scientific Contributions
+    # Scientific Contributions
   - block: markdown
     id: scientificcontributions
     content:
@@ -184,61 +184,55 @@ sections:
                 </div>
               </div>
               <div style="flex: 1; text-align: justify; font-size: 0.95rem; line-height: 1.6;">
-                <strong style="color: #4a9fd8;">"Peer-Reviewed Articles"</strong>
-1. **Synthesis and Properties of BEA Zeolite Modified with Iron(III) Oxide** 
-   *Inorganics* **13**, 383 (2025).  
-   [https://doi.org/10.3390/inorganics13120383](https://doi.org/10.3390/inorganics13120383)
-
-2. **Advancing Lignocellulosic Biomass Fractionation through Molten Salt Hydrates: Catalyst-Enhanced Pretreatment for Sustainable Biorefineries.**  
-   *ChemSusChem* **17**, e202400396 (2024).  
-   [https://doi.org/10.1002/cssc.202400396](https://doi.org/10.1002/cssc.202400396)
-
-3. **Cellulose Depolymerization Using Zinc Chloride Hydrate and Solid Acid Catalysts.**  
-   *Cellulose* **31**, 7953–7972 (2024).  
-   [https://doi.org/10.1007/s10570-024-06107-0](https://doi.org/10.1007/s10570-024-06107-0)
-
-4. **Polymers Based on PLA from Synthesis Using D,L-Lactic Acid (or Racemic Lactide) and Some Biomedical Applications: A Short Review.**  
-   *Polymers* **14**, 2317 (2022).  
-   [https://doi.org/10.3390/polym14122317](https://doi.org/10.3390/polym14122317)
-
-5. **Structural and Acidity Analysis of Heteropolyacids Supported on Faujasite Zeolite and Its Effect in the Esterification of Oleic Acid and n-Butanol.**  
-   *Molecular Catalysis* **532**, 112737 (2022).  
-   [https://doi.org/10.1016/j.mcat.2022.112737](https://doi.org/10.1016/j.mcat.2022.112737)
-
-6. **Synthesis, Characterization, and Application of Phosphotungstic Acid Supported on Iron-Based Magnetic Nanoparticles Coated with Silica.**  
-   *Catalysis Today* **394–396**, 425–433 (2021).  
-   [https://doi.org/10.1016/j.cattod.2021.06.032](https://doi.org/10.1016/j.cattod.2021.06.032)
-
-7. **Dehydration of Fructose to 5-Hydroxymethylfurfural: Effects of Acidity and Porosity of Different Catalysts.**  
-   *Chemistry* **3**, 1189–1202 (2021).  
-   [https://doi.org/10.3390/chemistry3040087](https://doi.org/10.3390/chemistry3040087)
-
-8. **Accessibility and Strength of H-Acceptor Hydroxyls of Ordered Mesoporous Silicas Probed by Pyridine Donor.**  
-   *Journal of Porous Materials* **28**, 323–335 (2020).  
-   [https://doi.org/10.1007/s10934-020-00994-x](https://doi.org/10.1007/s10934-020-00994-x)
-
-9. **Preparation of PLA Blends by Polycondensation of D,L-Lactic Acid Using Supported 12-Tungstophosphoric Acid as a Heterogeneous Catalyst.**  
-   *Heliyon* **5**, e01810 (2019).  
-   [https://doi.org/10.1016/j.heliyon.2019.e01810](https://doi.org/10.1016/j.heliyon.2019.e01810)
-
-10. **Comparative Acidity of BEA and Y Zeolite Composites with 12-Tungstophosphoric and 12-Tungstosilicic Acids.**  
-    *Molecular Catalysis* **458**, 152–160 (2018).  
-    [https://doi.org/10.1016/j.mcat.2018.03.005](https://doi.org/10.1016/j.mcat.2018.03.005)
-
-11. **Acidity and Characterization of 12-Tungstophosphoric Acid Supported on Silica-Alumina.**  
-    *J. Braz. Chem. Soc.* **28**, 336–347 (2017).  
-    [https://doi.org/10.5935/0103-5053.20160183](https://doi.org/10.5935/0103-5053.20160183)
-
-12. **Generation and Characterization of Catalytically Active Sites of Heteropolyacids on Zeolite Y for Liquid-Phase Esterification.**  
-    *Catalysis Today* **289**, 70–77 (2017).  
-    [https://doi.org/10.1016/j.cattod.2016.08.010](https://doi.org/10.1016/j.cattod.2016.08.010)
-                <br><br>
-                🔎Research Interests: <strong style="color: #4a9fd8;">Heterogeneous catalysis | Biomass valorization | Sustainable materials | Circular processes | Data-driven approaches | Scientific mentoring</strong>
-              <div style="margin-top: 2rem; text-align: center;">
-                <a href="/uploads/Paiva_Mateus_CV.pdf" download style="display: inline-block; padding: 0.75rem 2rem; background-color: #4a9fd8; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; transition: background-color 0.3s ease;">
-                    📄 Download Resume
-                  </a>
-                </div>
+                <strong style="color: #4a9fd8;">"Peer-Reviewed Articles"</strong><br><br>
+                
+                1. <strong>Synthesis and Properties of BEA Zeolite Modified with Iron(III) Oxide</strong><br>
+                   <em>Inorganics</em> <strong>13</strong>, 383 (2025).<br>
+                   <a href="https://doi.org/10.3390/inorganics13120383">https://doi.org/10.3390/inorganics13120383</a>
+                
+                2. <strong>Advancing Lignocellulosic Biomass Fractionation through Molten Salt Hydrates: Catalyst-Enhanced Pretreatment for Sustainable Biorefineries.</strong><br>
+                   <em>ChemSusChem</em> <strong>17</strong>, e202400396 (2024).<br>
+                   <a href="https://doi.org/10.1002/cssc.202400396">https://doi.org/10.1002/cssc.202400396</a>
+                
+                3. <strong>Cellulose Depolymerization Using Zinc Chloride Hydrate and Solid Acid Catalysts.</strong><br>
+                   <em>Cellulose</em> <strong>31</strong>, 7953–7972 (2024).<br>
+                   <a href="https://doi.org/10.1007/s10570-024-06107-0">https://doi.org/10.1007/s10570-024-06107-0</a>
+                
+                4. <strong>Polymers Based on PLA from Synthesis Using D,L-Lactic Acid (or Racemic Lactide) and Some Biomedical Applications: A Short Review.</strong><br>
+                   <em>Polymers</em> <strong>14</strong>, 2317 (2022).<br>
+                   <a href="https://doi.org/10.3390/polym14122317">https://doi.org/10.3390/polym14122317</a>
+                
+                5. <strong>Structural and Acidity Analysis of Heteropolyacids Supported on Faujasite Zeolite and Its Effect in the Esterification of Oleic Acid and n-Butanol.</strong><br>
+                   <em>Molecular Catalysis</em> <strong>532</strong>, 112737 (2022).<br>
+                   <a href="https://doi.org/10.1016/j.mcat.2022.112737">https://doi.org/10.1016/j.mcat.2022.112737</a>
+                
+                6. <strong>Synthesis, Characterization, and Application of Phosphotungstic Acid Supported on Iron-Based Magnetic Nanoparticles Coated with Silica.</strong><br>
+                   <em>Catalysis Today</em> <strong>394–396</strong>, 425–433 (2021).<br>
+                   <a href="https://doi.org/10.1016/j.cattod.2021.06.032">https://doi.org/10.1016/j.cattod.2021.06.032</a>
+                
+                7. <strong>Dehydration of Fructose to 5-Hydroxymethylfurfural: Effects of Acidity and Porosity of Different Catalysts.</strong><br>
+                   <em>Chemistry</em> <strong>3</strong>, 1189–1202 (2021).<br>
+                   <a href="https://doi.org/10.3390/chemistry3040087">https://doi.org/10.3390/chemistry3040087</a>
+                
+                8. <strong>Accessibility and Strength of H-Acceptor Hydroxyls of Ordered Mesoporous Silicas Probed by Pyridine Donor.</strong><br>
+                   <em>Journal of Porous Materials</em> <strong>28</strong>, 323–335 (2020).<br>
+                   <a href="https://doi.org/10.1007/s10934-020-00994-x">https://doi.org/10.1007/s10934-020-00994-x</a>
+                
+                9. <strong>Preparation of PLA Blends by Polycondensation of D,L-Lactic Acid Using Supported 12-Tungstophosphoric Acid as a Heterogeneous Catalyst.</strong><br>
+                   <em>Heliyon</em> <strong>5</strong>, e01810 (2019).<br>
+                   <a href="https://doi.org/10.1016/j.heliyon.2019.e01810">https://doi.org/10.1016/j.heliyon.2019.e01810</a>
+                
+                10. <strong>Comparative Acidity of BEA and Y Zeolite Composites with 12-Tungstophosphoric and 12-Tungstosilicic Acids.</strong><br>
+                    <em>Molecular Catalysis</em> <strong>458</strong>, 152–160 (2018).<br>
+                    <a href="https://doi.org/10.1016/j.mcat.2018.03.005">https://doi.org/10.1016/j.mcat.2018.03.005</a>
+                
+                11. <strong>Acidity and Characterization of 12-Tungstophosphoric Acid Supported on Silica-Alumina.</strong><br>
+                    <em>J. Braz. Chem. Soc.</em> <strong>28</strong>, 336–347 (2017).<br>
+                    <a href="https://doi.org/10.5935/0103-5053.20160183">https://doi.org/10.5935/0103-5053.20160183</a>
+                
+                12. <strong>Generation and Characterization of Catalytically Active Sites of Heteropolyacids on Zeolite Y for Liquid-Phase Esterification.</strong><br>
+                    <em>Catalysis Today</em> <strong>289</strong>, 70–77 (2017).<br>
+                    <a href="https://doi.org/10.1016/j.cattod.2016.08.010">https://doi.org/10.1016/j.cattod.2016.08.010</a>
               </div>
             </div>
           </div>
