@@ -192,6 +192,8 @@ sections:
                   </a>
                 </div>
               </div>
+              <div style="flex: 1; text-align: justify; font-size: 1.1rem; line-height: 1.6;">
+                <strong style="color: #4a9fd8;"></strong><br><br>Beyond traditional academic outputs, my work is closely linked to extension and science communication initiatives. This includes outreach projects such as the award-winning video **“De Instante Disponível, uma Força Útil”** (Video Destaque Award, Brazilian Catalysis Society – SBCat), as well as educational research on student retention and dropout in chemistry programs. Further details can be found in the **Community Outreach - Projects section**.
             </div>
           </div>
     design:
