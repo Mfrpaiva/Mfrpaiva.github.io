@@ -183,8 +183,55 @@ sections:
                   <img src="/P2.png" alt="Biography image" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 0.8rem;">
                 </div>
               </div>
-              <div style="flex: 1; text-align: justify; font-size: 1.10rem; line-height: 1.6;">
-                <strong style="color: #4a9fd8;">"Catalyzing people and reactions"</strong> is more than a motto – it is the principle that has guided both my scientific journey and my way of engaging with others. In chemistry, catalysis accelerates transformations. In life, I strive to play a similar role: enabling progress, fostering collaboration, and empowering those around me to go further than they imagined possible. My academic path reflects this dual commitment to scientific advancement and collective growth. I hold a PhD in Materials Chemistry from the Université de Lille (France), awarded within the PEARL i-site / Marie Skłodowska-Curie Actions excellence framework and recognized with the European Doctorate Label. My doctoral research integrated catalysis and combustion toward advanced lignocellulosic biomass valorization, combining fundamental understanding with sustainable technological applications. Originally trained in Chemistry at the University of Brasília (BSc – Bachelor, Teaching Degree, and Industrial Chemistry), I later completed my MSc in Catalysis before pursuing international doctoral training in France and collaborative research experiences in the Netherlands. Today, I serve as a Postdoctoral Researcher at the Fluminense Federal University (UFF) and as a Collaborating Researcher at the National Institute of Technology (INT), supported by Brazil's National Council for Scientific and Technological Development (CNPq). With over a decade of experience in heterogeneous catalysis, I work on the design, preparation, and advanced characterization of supported catalytic materials and their application in different reactions, like biomass fractionation and hydrolysis, esterification, sugars dehydration, polymerization, photodegradation, and lignin depolymerization. Beyond publications and interdisciplinary projects, I am deeply engaged in mentoring students, fostering inclusive research environments, and promoting accessible, evidence-based scientific communication. I believe catalysis happens at multiple scales: in molecules, in ideas, and in people. By integrating fundamental science, data-driven approaches, and collaborative networks, my goal is to accelerate sustainable solutions while strengthening a resilient, cooperative scientific community.
+              <div style="flex: 1; text-align: justify; font-size: 0.95rem; line-height: 1.6;">
+                <strong style="color: #4a9fd8;">"Peer-Reviewed Articles"</strong>
+1. **Synthesis and Properties of BEA Zeolite Modified with Iron(III) Oxide** 
+   *Inorganics* **13**, 383 (2025).  
+   [https://doi.org/10.3390/inorganics13120383](https://doi.org/10.3390/inorganics13120383)
+
+2. **Advancing Lignocellulosic Biomass Fractionation through Molten Salt Hydrates: Catalyst-Enhanced Pretreatment for Sustainable Biorefineries.**  
+   *ChemSusChem* **17**, e202400396 (2024).  
+   [https://doi.org/10.1002/cssc.202400396](https://doi.org/10.1002/cssc.202400396)
+
+3. **Cellulose Depolymerization Using Zinc Chloride Hydrate and Solid Acid Catalysts.**  
+   *Cellulose* **31**, 7953–7972 (2024).  
+   [https://doi.org/10.1007/s10570-024-06107-0](https://doi.org/10.1007/s10570-024-06107-0)
+
+4. **Polymers Based on PLA from Synthesis Using D,L-Lactic Acid (or Racemic Lactide) and Some Biomedical Applications: A Short Review.**  
+   *Polymers* **14**, 2317 (2022).  
+   [https://doi.org/10.3390/polym14122317](https://doi.org/10.3390/polym14122317)
+
+5. **Structural and Acidity Analysis of Heteropolyacids Supported on Faujasite Zeolite and Its Effect in the Esterification of Oleic Acid and n-Butanol.**  
+   *Molecular Catalysis* **532**, 112737 (2022).  
+   [https://doi.org/10.1016/j.mcat.2022.112737](https://doi.org/10.1016/j.mcat.2022.112737)
+
+6. **Synthesis, Characterization, and Application of Phosphotungstic Acid Supported on Iron-Based Magnetic Nanoparticles Coated with Silica.**  
+   *Catalysis Today* **394–396**, 425–433 (2021).  
+   [https://doi.org/10.1016/j.cattod.2021.06.032](https://doi.org/10.1016/j.cattod.2021.06.032)
+
+7. **Dehydration of Fructose to 5-Hydroxymethylfurfural: Effects of Acidity and Porosity of Different Catalysts.**  
+   *Chemistry* **3**, 1189–1202 (2021).  
+   [https://doi.org/10.3390/chemistry3040087](https://doi.org/10.3390/chemistry3040087)
+
+8. **Accessibility and Strength of H-Acceptor Hydroxyls of Ordered Mesoporous Silicas Probed by Pyridine Donor.**  
+   *Journal of Porous Materials* **28**, 323–335 (2020).  
+   [https://doi.org/10.1007/s10934-020-00994-x](https://doi.org/10.1007/s10934-020-00994-x)
+
+9. **Preparation of PLA Blends by Polycondensation of D,L-Lactic Acid Using Supported 12-Tungstophosphoric Acid as a Heterogeneous Catalyst.**  
+   *Heliyon* **5**, e01810 (2019).  
+   [https://doi.org/10.1016/j.heliyon.2019.e01810](https://doi.org/10.1016/j.heliyon.2019.e01810)
+
+10. **Comparative Acidity of BEA and Y Zeolite Composites with 12-Tungstophosphoric and 12-Tungstosilicic Acids.**  
+    *Molecular Catalysis* **458**, 152–160 (2018).  
+    [https://doi.org/10.1016/j.mcat.2018.03.005](https://doi.org/10.1016/j.mcat.2018.03.005)
+
+11. **Acidity and Characterization of 12-Tungstophosphoric Acid Supported on Silica-Alumina.**  
+    *J. Braz. Chem. Soc.* **28**, 336–347 (2017).  
+    [https://doi.org/10.5935/0103-5053.20160183](https://doi.org/10.5935/0103-5053.20160183)
+
+12. **Generation and Characterization of Catalytically Active Sites of Heteropolyacids on Zeolite Y for Liquid-Phase Esterification.**  
+    *Catalysis Today* **289**, 70–77 (2017).  
+    [https://doi.org/10.1016/j.cattod.2016.08.010](https://doi.org/10.1016/j.cattod.2016.08.010)
                 <br><br>
                 🔎Research Interests: <strong style="color: #4a9fd8;">Heterogeneous catalysis | Biomass valorization | Sustainable materials | Circular processes | Data-driven approaches | Scientific mentoring</strong>
               <div style="margin-top: 2rem; text-align: center;">
