@@ -56,7 +56,7 @@ sections:
               <div style="flex: 0 0 35%; min-width: 250px;">
                 <div style="margin-bottom: 2rem;">
                   <img src="/VFB.png" alt="Biography image" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 0.8rem;">
-                  <p style="text-align: center; font-size: 0.85rem; color: #666; margin: 0;">Catalysts simply lower the energy barrier needed for the reaction to proceed!</p>
+                  <p style="text-align: center; font-size: 0.85rem; color: #666; margin: 0;">Catalysts lower the energy barrier needed for the reaction to proceed!</p>
                 </div>
                 <div style="display: flex; flex-direction: column; align-items: center;">
                   <img src="/VFC.gif" alt="Biography image 2" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 0.8rem;">
