@@ -183,7 +183,7 @@ sections:
                   <img src="/P2.png" alt="Biography image" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 0.8rem;">
                 </div>
               </div>
-              <div style="flex: 1; text-align: justify; font-size: 0.95rem; line-height: 1.6;">
+              <div style="flex: 1; text-align: justify; font-size: 1.1rem; line-height: 1.6;">
                 <strong style="color: #4a9fd8;"></strong><br><br>My research contributions span peer-reviewed publications in heterogeneous catalysis, inorganic chemistry, biomass valorization, and sustainable reaction engineering, alongside book chapters and numerous presentations at scientific meetings. I strongly believe that science advances through dialogue. Participation in national and international conferences is therefore not merely complementary, but fundamental to refining ideas, fostering collaborations, and contributing to the global catalysis community. A complete and updated list of publications and conference contributions is available for download below.
                 <br><br>
                 <div style="margin-top: 2rem; text-align: center;">
