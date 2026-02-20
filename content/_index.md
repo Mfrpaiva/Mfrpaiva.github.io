@@ -56,7 +56,7 @@ sections:
               <div style="flex: 0 0 35%; min-width: 250px;">
                 <div style="margin-bottom: 2rem;">
                   <img src="/VFB.png" alt="Biography image" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 0.8rem;">
-                  <p style="text-align: center; font-size: 0.85rem; color: #666; margin: 0;">Catalysts lower the energy barrier needed for the reaction to proceed!</p>
+                  <p style="text-align: center; font-size: 0.85rem; color: #666; margin: 0;">Catalysts lower the energy barrier needed for the reaction to proceed.</p>
                 </div>
                 <div style="display: flex; flex-direction: column; align-items: center;">
                   <img src="/VFC.gif" alt="Biography image 2" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 0.8rem;">
@@ -184,7 +184,7 @@ sections:
                 </div>
               </div>
               <div style="flex: 1; text-align: justify; font-size: 1.1rem; line-height: 1.6;">
-                <strong style="color: #4a9fd8;"></strong><br><br>My research contributions span peer-reviewed publications in heterogeneous catalysis, inorganic chemistry, biomass valorization, and sustainable reaction engineering, alongside book chapters and numerous presentations at scientific meetings. I strongly believe that science advances through dialogue. Participation in national and international conferences is therefore not merely complementary, but fundamental to refining ideas, fostering collaborations, and contributing to the global catalysis community. A complete and updated list of publications and conference contributions is available for download below.
+                <strong style="color: #4a9fd8;"></strong><br><br>My research contributions span peer-reviewed publications in heterogeneous catalysis, inorganic chemistry, biomass valorization, and sustainable reaction engineering, alongside book chapters and numerous presentations at scientific meetings. I strongly believe that science advances through dialogue. Participation in national and international conferences is therefore not merely complementary, but fundamental to refining ideas, fostering collaborations, and contributing to the global chemistry community. A complete and updated list of publications and conference contributions is available for download below.
                 <br><br>
                 <div style="margin-top: 2rem; text-align: center;">
                   <a href="/uploads/Publications_MFP.pdf" download style="display: inline-block; padding: 0.75rem 2rem; background-color: #4a9fd8; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; transition: background-color 0.3s ease;">
