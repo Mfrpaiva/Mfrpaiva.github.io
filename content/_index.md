@@ -244,7 +244,7 @@ sections:
           light: "#ffffff"
           dark: "#0d0d12"
       spacing:
-        padding: ["4rem", "0", "4rem", "0"]
+        padding: ["4rem", "0", "1rem", "0"]
 
     # Final Phrase
   - block: markdown
@@ -261,7 +261,7 @@ sections:
           light: "#ffffff"
           dark: "#0d0d12"
       spacing:
-        padding: ["4rem", "0", "4rem", "0"]
+        padding: ["1rem", "0", "4rem", "0"]
 ---
 
 
