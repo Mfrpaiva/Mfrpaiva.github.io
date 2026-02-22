@@ -232,7 +232,7 @@ sections:
           dark: "#0f0f14"
       spacing:
         padding: ["0", "0", "0", "0"]
-        margin: ["0", "0", "0", "0"]
+        margin: ["0", "2", "0", "2"]
     
   # Recent Blog Posts
   - block: collection
