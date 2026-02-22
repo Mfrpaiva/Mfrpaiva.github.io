@@ -214,7 +214,6 @@ sections:
     text: |
       <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; padding: 2rem;">
         <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 2rem; max-width: 1400px; margin: 0 auto; padding-right: 2rem;">
-
           <!-- TEXT (LEFT) -->
           <div style="flex: 1; text-align: left; font-size: 1.05rem; line-height: 1.65;">
             <div style="margin-top: 0.25rem;">
@@ -230,12 +229,10 @@ sections:
               <div style="margin: 0;">🏆Honorable mentions in exact sciences – Undergraduate research congresses, University of Brasília (UnB) (2015 and 2016).</div>
             </div>
           </div>
-
           <!-- IMAGE (RIGHT) -->
           <div style="flex: 0 0 32%; min-width: 240px;">
             <img src="/Prize.png" alt="Awards and distinctions" style="max-width: 100%; height: auto; border-radius: 10px;">
           </div>
-
         </div>
       </div>
   design:
