@@ -1,13 +1,11 @@
 ---
-title: "Building a Production-Ready REST API with Node.js and Express"
-date: 2024-12-10
-summary: "A comprehensive guide to building scalable, secure REST APIs with proper error handling, validation, and documentation"
+title: "INT Researchers Awarded CNPq Grant for Scientific Talent Retention"
+date: 2025-06-16
+summary: "Conhecimento Brasil is a CNPq/MCTI initiative created to attract and retain highly qualified Brazilian researchers who have completed or are conducting PhD or postdoctoral studies abroad since 2019."
 tags:
-  - Node.js
-  - Express
-  - REST API
-  - Backend
-  - Tutorial
+  - #ScientificTalent
+  - #ResearchExcellence
+  - #BrazilianScience
 authors:
   - me
 featured: true
