@@ -9,7 +9,7 @@ authors:
   - me
 featured: false
 ---
-
+<div style="flex: 1; text-align: justify; font-size: 1.0rem; line-height: 1.6;">
 On August 25, 2021, student Mateus Freitas Paiva (Master’s student under the supervision of Prof. José Alves Dias) received, at the Institute of Chemistry (IQ), the Dmitri Mendeleev Award (certificate and medal) from the Regional Council of Chemistry of the 12th Region (CRQ-XII), in recognition of his outstanding performance in the undergraduate Chemistry program. This award adds to others received by the student throughout his academic trajectory at the Institute of Chemistry of the University of Brasília.
 
 The CRQ-XII Dmitri Mendeleev Award is granted to the top student in Chemistry programs at each higher education institution within the states of Goiás, Tocantins, and the Federal District. The award honors graduating students in recognition of their commitment, dedication, and excellence throughout their academic training, as well as their professional development.
