@@ -1,27 +1,12 @@
 ---
-title: "TaskFlow - Project Management Tool"
+title: "Research Projects"
 date: 2024-09-20
-summary: "Real-time collaborative task management application with drag-and-drop Kanban boards and team features"
+summary: "From fundamental catalyst design to integrated biorefinery concepts and sustainable aviation fuels, my work bridges heterogeneous catalysis, biomass chemistry, reaction engineering, and fuel performance evaluation, advancing technologies aligned with the global energy transition."
 tags:
-  - Full-Stack
-  - Next.js
-  - Real-Time
-  - Productivity
-tech_stack:
-  - Next.js
-  - TypeScript
-  - Prisma
-  - PostgreSQL
-  - WebSockets
-  - Tailwind CSS
-links:
-  - type: github
-    url: https://github.com/alexjohnson/taskflow
-    label: Code
-  - type: live
-    url: https://taskflow-demo.example.com
-    label: Demo
-featured: true
+  - Catalyst Design
+  - Renewable Carbon Platforms
+  - Green Chemistry
+  - Advanced Materials for Sustainability
 status: "Live"
 role: "Solo Developer"
 duration: "2 months"
@@ -32,139 +17,176 @@ highlights:
   - "Featured on Product Hunt"
 ---
 
-A modern, intuitive task management tool built for remote teams. Features real-time collaboration, customizable workflows, and beautiful UI.
+Catalyzing the Transition to a Renewable Carbon Future
 
-## Overview
+My scientific journey has been driven by a central question:
 
-TaskFlow was born out of frustration with existing project management tools being either too complex or lacking essential features. I built a solution that's powerful yet simple to use.
+How can we redesign catalytic systems to unlock the full potential of renewable carbon?
 
-## Key Features
+From fundamental catalyst design to integrated biorefinery concepts and sustainable aviation fuels, my work bridges heterogeneous catalysis, biomass chemistry, reaction engineering, and fuel performance evaluation, advancing technologies aligned with the global energy transition.
 
-### Core Functionality
-- **Kanban Boards** - Drag-and-drop interface for visual task management
-- **Real-Time Sync** - See changes instantly as team members update tasks
-- **Multiple Views** - Switch between Kanban, List, and Calendar views
-- **Task Details** - Rich descriptions, attachments, comments, and checklists
-- **Labels & Filters** - Organize and find tasks quickly
+🚀 2025 – Present
+Leading an Independent Research Agenda
 
-### Collaboration
-- **Team Workspaces** - Separate spaces for different projects/teams
-- **@Mentions** - Tag team members in comments for notifications
-- **Activity Feed** - Track all changes and updates
-- **Permissions** - Role-based access control (admin, member, viewer)
+Principal Investigator – CNPq Knowledge Brazil Program
 
-### Productivity
-- **Keyboard Shortcuts** - Power user features for faster navigation
-- **Templates** - Reusable board templates for common workflows
-- **Due Dates & Reminders** - Never miss a deadline
-- **Time Tracking** - Built-in timer for task duration tracking
+Integral Fractionation and Conversion of Lignocellulosic Biomass Using Molten Salt Hydrates and Innovative Catalysts
 
-## Technical Implementation
+This nationally funded project marks the consolidation of my independent research line in catalytic biomass valorization.
 
-### Real-Time Features
-Used WebSockets (Socket.io) for instant updates across all connected clients. Implemented optimistic UI updates for snappy user experience even before server confirmation.
+The project develops integrated technologies capable of converting lignocellulosic biomass into high-value products through:
 
-### Drag & Drop
-Built custom drag-and-drop using react-beautiful-dnd with smooth animations and mobile touch support.
+Molten Salt Hydrates (MSH) as unconventional reaction media
 
-### Performance
-- Implemented virtual scrolling for boards with 1000+ tasks
-- Optimized database queries with proper indexing
-- Used Redis for session storage and caching
-- Image optimization with Next.js Image component
+Heterogeneous acid catalysis
 
-### Authentication
-- Secure auth with NextAuth.js
-- Support for email/password and OAuth (Google, GitHub)
-- JWT tokens with automatic refresh
+Photocatalytic and hybrid catalytic systems
 
-## Architecture
+Continuous reactor configurations
 
-Built as a modern monolith with Next.js API routes:
+Emerging biocatalytic routes
 
-```
-┌─────────────┐     ┌──────────────┐     ┌─────────────┐
-│  Next.js    │────▶│   API Routes │────▶│ PostgreSQL  │
-│  (React)    │     │  (REST/WS)   │     │  + Prisma   │
-└─────────────┘     └──────────────┘     └─────────────┘
-       │                    │
-       │             ┌──────▼───────┐
-       └────────────▶│  Socket.io   │
-                     │  (Real-Time) │
-                     └──────────────┘
-```
+In addition to conventional feedstocks (sugarcane bagasse, pine, eucalyptus), we investigate underexplored biomass residues such as açaí seeds and water hyacinth, transforming environmental liabilities into renewable chemical platforms.
 
-## Challenges Solved
+This work advances:
 
-### Real-Time Conflicts
-**Problem**: Multiple users editing same task simultaneously
+Second-generation biorefinery concepts
 
-**Solution**: Implemented operational transformation (OT) for conflict resolution and last-write-wins strategy with conflict notifications
+Mild and energy-efficient processing
 
-### Mobile Performance
-**Problem**: Drag-and-drop laggy on mobile devices
+Integrated valorization of cellulose, hemicellulose, and lignin
 
-**Solution**: Optimized touch handlers and reduced re-renders using React.memo and useMemo
+National strategies for bioeconomy development
 
-### Scale
-**Problem**: Growing user base causing performance issues
+Beyond technology, this project represents leadership in:
 
-**Solution**: Added Redis caching layer and optimized database queries, reducing response time by 65%
+Training undergraduate researchers
 
-## Results
+Building interdisciplinary collaborations
 
-- 📈 **Users**: 2000+ active users within 3 months
-- ⭐ **Product Hunt**: Featured and received 200+ upvotes
-- 🚀 **Performance**: Sub-100ms API response times
-- 💯 **Uptime**: 99.8% uptime since launch
-- 📱 **Mobile**: 40% of traffic from mobile devices
+Strengthening Brazil’s innovation ecosystem
 
-## Tech Stack
+✈️ 2024 – 2025
+Renewable Hydrocarbons for Sustainable Aviation
 
-**Frontend**
-- Next.js 14 (App Router)
-- TypeScript
-- Tailwind CSS
-- Framer Motion (animations)
-- React Beautiful DnD
+CNPq – Fuel of the Future & Brazilian Hydrogen Initiative
 
-**Backend**
-- Next.js API Routes
-- Prisma ORM
-- PostgreSQL
-- Socket.io for WebSockets
-- NextAuth.js for authentication
+In alignment with Brazil’s strategic energy programs, this project explored innovative routes for producing precursors to Sustainable Aviation Fuels (SAFs).
 
-**Infrastructure**
-- Vercel for hosting
-- Supabase for PostgreSQL
-- Redis Cloud for caching
-- AWS S3 for file storage
+Two lignin isolation strategies were systematically compared:
 
-## User Feedback
+Organosolv fractionation
 
-> "Finally, a task manager that doesn't get in my way. The real-time updates are magical!" - Sarah K., Product Manager
+Molten Salt Hydrate systems (e.g., LiBr·3H₂O)
 
-> "We switched from Trello and haven't looked back. TaskFlow is faster and more intuitive." - Mike R., Engineering Lead
+The MSH route enabled:
 
-## Open Source
+High-purity lignin isolation (>99%)
 
-TaskFlow is open source! Contributions welcome.
+Lower structural condensation
 
-**License**: MIT  
-**GitHub**: [alexjohnson/taskflow](https://github.com/alexjohnson/taskflow)  
-**Demo**: [Try it live](https://taskflow-demo.example.com)
+Enhanced downstream reactivity
 
-## What's Next
+Isolated lignins were subjected to Reductive Catalytic Depolymerization (RCD) under hydrogen atmosphere, generating:
 
-Currently working on:
-- [ ] Mobile apps (iOS & Android)
-- [ ] Gantt chart view
-- [ ] Advanced reporting and analytics
-- [ ] API for third-party integrations
-- [ ] Offline mode support
+Guaiacol and syringol
 
----
+Alkylphenols
 
-**Status**: ✅ Live & Actively Maintained  
-**Try it**: [taskflow-demo.example.com](https://taskflow-demo.example.com)
+Partially hydrogenated aromatics
+
+These compounds serve as promising renewable precursors for aviation fuels.
+
+This project strengthened the bridge between lignin chemistry and real-world fuel applications, positioning catalytic biomass valorization within the framework of global decarbonization.
+
+🎓 2021 – 2024
+PhD Research – Integrated Biorefinery Concepts
+
+Université de Lille (France)
+
+My doctoral research proposed a paradigm shift:
+Integrating biomass fractionation and catalytic upgrading into a single process.
+
+Using inorganic molten salt hydrates as solvents, I demonstrated:
+
+Low-temperature dissolution of cellulose and hemicellulose
+
+In situ catalytic conversion to platform molecules
+
+Isolation of high-purity lignins
+
+Reductive catalytic depolymerization
+
+Ignition-delay studies of lignin-derived hydrocarbons
+
+This work uniquely connected:
+
+Catalysis → Biomass Chemistry → Reaction Engineering → Combustion Kinetics
+
+By studying ignition reactivity of deoxygenated lignin derivatives, the research extended beyond chemical production into fuel performance evaluation, contributing to the feasibility assessment of renewable hydrocarbons in transportation systems.
+
+🔬 2017 – 2021
+Engineering Acid Catalysts for Sustainable Transformations
+
+During this period, my work focused on designing and tuning heterogeneous catalysts, particularly:
+
+Heteropolyacid-modified zeolites (HPW, HSiW)
+
+Faujasite (Y), BEA, and FER structures
+
+Acid site engineering and dispersion control
+
+Catalytic applications included:
+
+Oleic acid esterification (>70% conversion, no leaching)
+
+Ethanol dehydration to ethylene (100% selectivity at 300 °C)
+
+Adsorption of priority PAHs (EPA-listed pollutants)
+
+D,L-lactic acid polymerization
+
+Renewable polymer production
+
+Through advanced characterization (XRD, MAS-NMR, Py-FTIR, N₂ physisorption, TPD), I investigated structure–activity relationships and catalyst stability, strengthening my expertise in rational catalyst design.
+
+🌱 2014 – 2017
+Foundations in Catalyst Design and Green Polymer Chemistry
+
+My early research focused on:
+
+Keggin-type heteropolyacid synthesis
+
+Supported catalysts on zeolite matrices
+
+Anti-leaching strategies
+
+Sustainable polymer production (PLA, bio-based polyethylene)
+
+These foundational studies established the principles of acid site control, catalyst stability, and green chemistry, which continue to underpin my current work.
+
+Technical Expertise
+
+Heterogeneous catalyst synthesis and modification
+
+Zeolites, heteropolyacids, mesoporous materials
+
+Acid site probing (Py-FTIR, NH₃-TPD, MAS-NMR)
+
+Biomass fractionation using Molten Salt Hydrates
+
+Reductive Catalytic Depolymerization
+
+Batch and continuous reactor systems
+
+Combustion kinetics and ignition delay measurements
+
+Sustainable fuel precursor development
+
+Research Philosophy
+
+Catalysis is not merely a reaction accelerator.
+It is a strategic tool for societal transformation.
+
+My research seeks to catalyze more than molecules — it seeks to catalyze systems, transitions, and possibilities. By integrating catalyst design, process intensification, and fuel evaluation, I aim to contribute to a new generation of biorefineries capable of delivering renewable fuels and chemicals with real technological and environmental impact.
+
