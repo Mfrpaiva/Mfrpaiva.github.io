@@ -3,7 +3,7 @@ title: "INT Researchers Awarded CNPq Grant for Scientific Talent Retention"
 date: 2025-06-16
 summary: "Conhecimento Brasil is a CNPq/MCTI initiative created to attract and retain highly qualified Brazilian researchers who have completed or are conducting PhD or postdoctoral studies abroad since 2019."
 tags:
-  - #ResearchExcellence
+  - ResearchExcellence
 authors:
   - me
 featured: true
