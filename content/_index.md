@@ -206,7 +206,7 @@ sections:
         padding: ["0", "0", "0", "0"]
         margin: ["0", "0", "0", "0"]
 
-# Distinctions Section (adicione logo após a última seção existente em "sections")
+  # Distinctions Section 
 - block: markdown
   id: distinctions
   content:
