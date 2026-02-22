@@ -10,7 +10,7 @@ authors:
   - me
 featured: true
 ---
-
+<div style="flex: 1; text-align: justify; font-size: 1.0rem; line-height: 1.6;">
 Researchers Elise Albuquerque and Mateus Paiva, from the Catalysis, Biocatalysis and Chemical Processes Division of INT, were selected in the first call of the Conhecimento Brasil Program – Attraction and Retention of Talent. This CNPq/MCTI initiative is aimed at Brazilian researchers who have completed or are pursuing a PhD or postdoctoral studies abroad since 2019 and who wish to resume research activities in Brazil.
 
 A postdoctoral researcher at Centrale Lille Institut, France, where she worked between 2021 and 2022, Elise leads the project entitled “Mesoporous Acid Catalysts for Microwave-Assisted Conversion of Hemicellulose and Cellulose: Catalyst Design and Process Optimization.” Her research focuses on developing more efficient and water-resistant heterogeneous catalysts for the conversion of polysaccharides present in lignocellulosic biomass. The proposal aims to synthesize catalytic materials with acidic and mesoporous characteristics, promoting polysaccharide valorization and optimizing the process through the use of microwave irradiation, without the need for promoters such as inorganic acids.
