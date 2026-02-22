@@ -206,7 +206,7 @@ sections:
         padding: ["0", "0", "0", "0"]
         margin: ["0", "0", "0", "0"]
 
-# Distinctions Section
+# Distinctions Section (adicione logo após a última seção existente em "sections")
 - block: markdown
   id: distinctions
   content:
@@ -217,12 +217,12 @@ sections:
           <!-- TEXT (LEFT) -->
           <div style="flex: 1; text-align: left; font-size: 1.05rem; line-height: 1.65;">
             <div style="margin-top: 0.25rem;">
-              <div style="margin: 0 0 0.65rem 0;">🏆DivCat travel fellowship – Support to attend the 18th International congress on catalysis (ICC), French chemical society (SCF), France (2024)</div>
-              <div style="margin: 0 0 0.65rem 0;">🏆Group Award – Best Technological Invention, Unite! Biomass Winter School (U! Bio), International School of Paper, Print Media and Biomaterials (INP-PAGORA), France (2023)</div>
+              <div style="margin: 0 0 0.65rem 0;">🏆DivCat travel fellowship – Support to attend the 18th International congress on catalysis (ICC), French chemical society (SCF), France (2023).</div>
+              <div style="margin: 0 0 0.65rem 0;">🏆Group Award – Best Technological Invention, Unite! Biomass Winter School (U! Bio), International School of Paper, Print Media and Biomaterials (ESPM), France (2023).</div>
               <div style="margin: 0 0 0.65rem 0;">🏆Group Award - Best Start-up Project Management, Innovation Challenge - Université de Lille (UNIV-LILLE), France (2023)</div>
-              <div style="margin: 0 0 0.65rem 0;">🏆Éole excellence fellowship – academic research stay in the Netherlands, Franco–Dutch higher education and research network (RFN), France (2021)</div>
+              <div style="margin: 0 0 0.65rem 0;">🏆Éole excellence fellowship – academic research stay in the Netherlands, Franco–Dutch higher education and research network (RFN), France (2023).</div>
               <div style="margin: 0 0 0.65rem 0;">🏆Dmitri Mendeleev award – Outstanding student award, Regional council of chemistry (CRQ-XII), Brazil (2021)</div>
-              <div style="margin: 0 0 0.65rem 0;">🏆Best poster awards (Physical Chemistry and Catalysis Divisions) – 38th RA, 42nd RA and IV ERCO Meetings, Brazilian Chemical Society (SBQ), Brazil (2015, 2019 and 2021)</div>
+              <div style="margin: 0 0 0.65rem 0;">🏆Best poster awards (Physical Chemistry and Catalysis Divisions) – 38th RA, 42nd RA and IV ERCO Meetings, Brazilian Chemical Society (SBQ), Brazil (2021).</div>
               <div style="margin: 0 0 0.65rem 0;">🏆ICC Young scientists travel award – International Association of Catalysis Societies (IACS), United States (2020)</div>
               <div style="margin: 0 0 0.65rem 0;">🏆Outstanding scientific video award for research communication (Master’s level) – Brazilian Catalysis Society (SBCat), Brazil, (2020)</div>
               <div style="margin: 0 0 0.65rem 0;">🏆Honorable Mention - Outstanding Student, Centro Interescolar de Línguas de Brasília (CIL) (2016 and 2017).</div>
