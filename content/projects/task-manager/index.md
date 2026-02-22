@@ -7,7 +7,11 @@ tags:
   - Renewable Carbon Platforms
   - Green Chemistry
   - Advanced Materials for Sustainability
-status: "Live"
+tech_stack:
+  - Catalysts Design
+  - Renewable Carbon Platforms
+  - Green Chemistry
+  - Advanced Materials for Sustainability
 role: "Solo Developer"
 duration: "2 months"
 team_size: 1
