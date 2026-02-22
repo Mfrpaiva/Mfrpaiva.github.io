@@ -1,7 +1,7 @@
 ---
 title: "Research Projects"
 date: 2024-09-20
-summary: "From fundamental catalyst design to integrated biorefinery concepts and sustainable aviation fuels, my work bridges heterogeneous catalysis, biomass chemistry, reaction engineering, and fuel performance evaluation, advancing technologies aligned with the global energy transition."
+summary: "From fundamental catalyst design to integrated biorefinery concepts and sustainable aviation fuels"
 tags:
   - Catalyst Design
   - Renewable Carbon Platforms
@@ -17,11 +17,11 @@ highlights:
   - "Featured on Product Hunt"
 ---
 
-Catalyzing the Transition to a Renewable Carbon Future
+**Catalyzing the Transition to a Renewable Carbon Future**
 
 My scientific journey has been driven by a central question:
 
-How can we redesign catalytic systems to unlock the full potential of renewable carbon?
+*How can we redesign catalytic systems to unlock the full potential of renewable carbon?*
 
 From fundamental catalyst design to integrated biorefinery concepts and sustainable aviation fuels, my work bridges heterogeneous catalysis, biomass chemistry, reaction engineering, and fuel performance evaluation, advancing technologies aligned with the global energy transition.
 
