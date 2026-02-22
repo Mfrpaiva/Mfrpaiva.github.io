@@ -206,49 +206,33 @@ sections:
         padding: ["0", "0", "0", "0"]
         margin: ["0", "0", "0", "0"]
 
-# Distinctions Section
-id: distinctions
-type: custom
-content:
-  title: "Awards & Distinctions"
-  subtitle: ""
-design:
-  columns: "2"
----
-
-<div style="display: flex; align-items: flex-start; gap: 2rem;">
-
-  <!-- Left Column – 40% -->
-  <div style="flex: 0 0 40%; text-align: left;">
-
-🏆 DivCat Travel Fellowship – Support to attend the 18th International Congress on Catalysis (ICC), French Chemical Society (SCF), France (2024)
-
-🏆 Group Award – Best Technological Invention, Unite! Biomass Winter School (U! Bio), International School of Paper, Print Media and Biomaterials (INP-PAGORA), France (2023)
-
-🏆 Group Award – Best Start-up Project Management, Innovation Challenge, Université de Lille (UNIV-LILLE), France (2023)
-
-🏆 Éole Excellence Fellowship – Academic research stay in the Netherlands, Franco–Dutch Higher Education and Research Network (RFN), France (2021)
-
-🏆 Dmitri Mendeleev Award – Outstanding Student Award, Regional Council of Chemistry (CRQ-XII), Brazil (2021)
-
-🏆 Best Poster Awards (Physical Chemistry and Catalysis Divisions) – 38th RA, 42nd RA and IV ERCO Meetings, Brazilian Chemical Society (SBQ), Brazil (2015, 2019, 2021)
-
-🏆 ICC Young Scientists Travel Award – International Association of Catalysis Societies (IACS), United States (2020)
-
-🏆 Outstanding Scientific Video Award for Research Communication (Master’s Level) – Brazilian Catalysis Society (SBCat), Brazil (2020)
-
-🏆 Honorable Mention – Outstanding Student, Centro Interescolar de Línguas de Brasília (CIL) (2016, 2017)
-
-🏆 Honorable Mentions in Exact Sciences – Undergraduate Research Congresses, University of Brasília (UnB) (2015, 2016)
-
-  </div>
-
-  <!-- Right Column – 60% -->
-  <div style="flex: 0 0 60%; text-align: center;">
-    <img src="/media/Prize.png" alt="Awards and Distinctions" style="max-width: 100%; height: auto; border-radius: 12px;">
-  </div>
-
-</div>
+# Distinctions Section 
+  - block: markdown
+    id: distinctions
+    content:
+      title: Awards & Distinctions
+      text: |
+          <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; padding: 2rem;">
+            <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 2rem; max-width: 1400px; margin: 0 auto; padding-right: 2rem;">
+              <div style="flex: 0 0 35%; min-width: 250px;">
+                <div style="margin-bottom: 2rem;">
+                  <img src="/Prize.png" alt="Biography image" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 0.8rem;">
+                </div>
+              </div>
+              <div style="flex: 1; text-align: justify; font-size: 1.10rem; line-height: 1.6;">
+                <strong style="color: #4a9fd8;"></strong> 🏆 DivCat Travel Fellowship – Support to attend the 18th International Congress on Catalysis (ICC), French Chemical Society (SCF), France (2024) <br> 🏆 Group Award – Best Technological Invention, Unite! Biomass Winter School (U! Bio), International School of Paper, Print Media and Biomaterials (INP-PAGORA), France (2023) <br> 🏆 Group Award – Best Start-up Project Management, Innovation Challenge, Université de Lille (UNIV-LILLE), France (2023) <br> 🏆 Éole Excellence Fellowship – Academic research stay in the Netherlands, Franco–Dutch Higher Education and Research Network (RFN), France (2021) <br> 🏆 Dmitri Mendeleev Award – Outstanding Student Award, Regional Council of Chemistry (CRQ-XII), Brazil (2021) <br> 🏆 Best Poster Awards (Physical Chemistry and Catalysis Divisions) – 38th RASBQ, 42nd RASBQ and IV ERCO Meetings, Brazilian Chemical Society (SBQ), Brazil (2015, 2019, 2021) <br> 🏆 ICC Young Scientists Travel Award – International Association of Catalysis Societies (IACS), United States (2020) <br> 🏆 Outstanding Scientific Video Award for Research Communication (Master’s Level) – Brazilian Catalysis Society (SBCat), Brazil (2020) <br> 🏆 Honorable Mention – Outstanding Student, Centro Interescolar de Línguas de Brasília (CIL) (2016, 2017) <br> 🏆 Honorable Mentions in Exact Sciences – Undergraduate Research Congresses, University of Brasília (UnB) (2015, 2016)
+                </div>
+              </div>
+            </div>
+          </div>
+    design:
+      background:
+        color:
+          light: "#f9f9f9"
+          dark: "#0f0f14"
+      spacing:
+        padding: ["0", "0", "0", "0"]
+        margin: ["0", "0", "0", "0"]
     
   # Recent Blog Posts
   - block: collection
