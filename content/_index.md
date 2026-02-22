@@ -190,7 +190,7 @@ sections:
                   <a href="/uploads/Publications_MFP.pdf" download style="display: inline-block; padding: 0.75rem 2rem; background-color: #4a9fd8; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; transition: background-color 0.3s ease;">
                     📄 Download Publication Record
                   </a>
-              <div style="text-align: justify; font-size: 1.1rem; line-height: 1.6;">
+              <div style="text-align: justify; font-size: 1.0rem; line-height: 1.6;">
                 <strong style="color: #4a9fd8;"></strong><br><br>Beyond traditional outputs, my work is closely linked to extension and science communication initiatives. This includes outreach projects such as the award-winning video
                   <a href="https://youtu.be/psEIIGJiRBM?si=eYuQBZ_BH9v4Uu_M" target="_blank" rel="noopener noreferrer">
                     <span style="color: #4a9fd8;">“From a moment available, a useful force”</span>
