@@ -25,7 +25,8 @@ highlights:
 
 *How can we redesign catalytic systems to unlock the full potential of renewable carbon?*
 
-From fundamental catalyst design to integrated biorefinery concepts and sustainable aviation fuels, my work bridges heterogeneous catalysis, biomass chemistry, reaction engineering, and fuel performance evaluation, advancing technologies aligned with the global energy transition.
+From fundamental catalyst design to integrated biorefinery concepts and sustainable aviation fuels, my work bridges heterogeneous catalysis, biomass chemistry, reaction engineering, and fuel performance evaluation, advancing technologies aligned with the global energy transition.<br>
+_________________________________________________________________________________________________________________________________<br>
 
 🚀 <strong style="color: #4a9fd8;">2025 – Present</strong> (Principal Investigator and Post-Doc – CNPq Conhecimento Brasil) <br>
 🌟Starting to lead an independent research agenda
@@ -50,7 +51,8 @@ This work advances:<br>
 Beyond technology, this project represents leadership in:<br>
 -Training undergraduate researchers (always trying to find ways to bring in more students and build a team);<br>
 -Building interdisciplinary collaborations;<br>
--Strengthening Brazil’s innovation ecosystem
+-Strengthening Brazil’s innovation ecosystem<br>
+_________________________________________________________________________________________________________________________________<br>
 
 ✈️ <strong style="color: #4a9fd8;">2024 – 2025</strong> (Post-Doc)
 Project: **Renewable Hydrocarbons for Sustainable Aviation**
@@ -70,7 +72,8 @@ Isolated lignins were subjected to Reductive Catalytic Depolymerization (RCD) un
 -Partially hydrogenated aromatics.<br>
 *These compounds serve as promising renewable precursors for aviation fuels.* 
 
-This project strengthened the bridge between lignin chemistry and real-world fuel applications, positioning catalytic biomass valorization within the framework of global decarbonization.
+This project strengthened the bridge between lignin chemistry and real-world fuel applications, positioning catalytic biomass valorization within the framework of global decarbonization.<br>
+_________________________________________________________________________________________________________________________________<br>
 
 🎓 <strong style="color: #4a9fd8;">2021 – 2024</strong> – Université de Lille (France)
 **PhD Research – Integrated Biorefinery Concepts**
@@ -87,8 +90,8 @@ Using inorganic molten salt hydrates as solvents, I demonstrated:
 
 This work uniquely connected: **Catalysis → Biomass Chemistry → Reaction Engineering → Combustion Kinetics**
 
-By studying ignition reactivity of deoxygenated lignin derivatives, the research extended beyond chemical production into fuel performance evaluation, contributing to the feasibility assessment of renewable hydrocarbons in transportation systems.
-
+By studying ignition reactivity of deoxygenated lignin derivatives, the research extended beyond chemical production into fuel performance evaluation, contributing to the feasibility assessment of renewable hydrocarbons in transportation systems.<br>
+_________________________________________________________________________________________________________________________________<br>
 🔬 <strong style="color: #4a9fd8;">2017 – 2021</strong>
 *Engineering Acid Catalysts for Sustainable Transformations*
 
@@ -104,8 +107,8 @@ Catalytic applications included:<br>
 -D,L-lactic acid polymerization;<br>
 -Renewable polymers production.
 
-Through advanced characterization (XRD, MAS-NMR, Py-FTIR, N₂ physisorption, TPD), I investigated structure–activity relationships and catalyst stability, strengthening my expertise in rational catalyst design.
-
+Through advanced characterization (XRD, MAS-NMR, Py-FTIR, N₂ physisorption, TPD), I investigated structure–activity relationships and catalyst stability, strengthening my expertise in rational catalyst design.<br>
+_________________________________________________________________________________________________________________________________<br>
 🌱 <strong style="color: #4a9fd8;">2014 – 2017</strong>
 *Foundations in Catalyst Design and Green Chemistry*
 
@@ -115,7 +118,8 @@ My early research focused on:
 -Anti-leaching strategies;<br>
 -Sustainable polymer production (PLA, bio-based polyethylene)
 
-These foundational studies established the principles of acid site control, catalyst stability, and green chemistry, which continue to underpin my current work.
+These foundational studies established the principles of acid site control, catalyst stability, and green chemistry, which continue to underpin my current work.<br>
+_________________________________________________________________________________________________________________________________<br>
 
 **Technical Expertise**
 
@@ -125,8 +129,8 @@ Acid site probing (Py-FTIR, NH₃-TPD)<br>
 Biomass fractionation<br>
 Batch and continuous reactor systems<br>
 Combustion kinetics and ignition delay measurements<br>
-Sustainable fuel precursor development
-
+Sustainable fuel precursor development<br>
+_________________________________________________________________________________________________________________________________<br>
 **Research Philosophy**
 
 Catalysis is not merely a reaction accelerator.
