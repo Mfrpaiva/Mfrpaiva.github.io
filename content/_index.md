@@ -1,4 +1,4 @@
----
+   ---
 # Leave the homepage title empty to use the site title
 title: ''
 summary: ''
@@ -150,7 +150,7 @@ sections:
         - name: All
           tag: '*'
         - name: Research
-          tag: Full-Stack
+          tag: Green Chemistry
         - name: Teaching
           tag: Frontend
         - name: Community Outreach
