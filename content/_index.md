@@ -152,9 +152,9 @@ sections:
         - name: Research
           tag: Green Chemistry
         - name: Teaching
-          tag: Frontend
+          tag: Academic Mentorship
         - name: Community Outreach
-          tag: Backend
+          tag: Scientific communication
       default_button_index: 0
       # Archive link auto-shown if more projects exist than 'count' above
       # archive:
