@@ -8,12 +8,9 @@ tags:
   - STEM Education
   - Innovation-Oriented Teaching
 tech_stack:
-  - React
-  - TypeScript
-  - OpenWeather API
-  - Mapbox
-  - Tailwind CSS
-  - Vite
+  - Academic Mentorship
+  - Laboratory Instruction
+  - STEM Education
 featured: false
 status: 
 role: "Solo Developer"
@@ -23,150 +20,30 @@ highlights:
   - "PWA with offline support"
   - "5000+ monthly active users"
   - "Lighthouse score: 100"
----
-
-A fast, beautiful weather application that provides real-time weather data, forecasts, and interactive maps. Built as a Progressive Web App with offline support.
-
-## Overview
-
-WeatherNow started as a weekend project to learn PWA development. It evolved into a fully-featured weather app used by thousands of people daily.
-
-## Features
-
-### Weather Data
-- **Current Conditions** - Real-time weather for any location
-- **7-Day Forecast** - Detailed daily forecasts with hourly breakdown
-- **Weather Alerts** - Severe weather notifications
-- **Historical Data** - Past weather data and trends
-
-### User Experience
-- **Location Detection** - Automatic location based on GPS or IP
-- **Search** - Find weather for any city worldwide
-- **Favorites** - Save frequently checked locations
-- **Units** - Toggle between metric and imperial
-- **Dark Mode** - Automatic or manual theme switching
-
-### Progressive Web App
-- **Offline Support** - Access cached data without internet
-- **Install** - Add to home screen like a native app
-- **Fast** - Optimized for performance (Lighthouse 100)
-- **Responsive** - Perfect on any device
-
-## Technical Highlights
-
-### Performance
-- Achieved **100/100 Lighthouse score** across all categories
-- Implemented service workers for offline functionality
-- Optimized bundle size: < 150KB gzipped
-- Lazy loading for images and components
-- Prefetching for instant navigation
-
-### Data Management
-- Smart caching strategy with stale-while-revalidate
-- Background sync for updated forecasts
-- Efficient API usage with request batching
-- Local storage for user preferences
-
-### UI/UX
-- Smooth animations with Framer Motion
-- Interactive weather map with Mapbox
-- Weather icons that match current conditions
-- Accessible (WCAG AA compliant)
-
-## API Integration
-
-Integrated multiple weather APIs for comprehensive data:
-
-```typescript
-// Example: Fetching weather data
-const fetchWeather = async (lat: number, lon: number) => {
-  const response = await fetch(
-    `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${API_KEY}`
-  )
-  return response.json()
-}
-```
-
-## Architecture
-
-```
-┌─────────────┐     ┌──────────────┐
-│  React App  │────▶│ OpenWeather  │
-│   (Vite)    │     │     API      │
-└──────┬──────┘     └──────────────┘
-       │
-       │            ┌──────────────┐
-       └───────────▶│   Mapbox     │
-                    │     API      │
-                    └──────────────┘
-```
-
-## Challenges
-
-### Challenge: API Rate Limits
-**Solution**: Implemented intelligent caching and request batching to stay within free tier limits while maintaining data freshness
-
-### Challenge: Offline Experience
-**Solution**: Service workers with cache-first strategy for UI, network-first for data with graceful fallbacks
-
-### Challenge: Performance on Slow Networks
-**Solution**: Image optimization, code splitting, and Progressive rendering for instant perceived performance
-
-## Results
-
-- 📈 **Users**: 5000+ monthly active users
-- ⚡ **Performance**: 100 Lighthouse score
-- 📱 **PWA**: 40% of users installed as app
-- 🌍 **Global**: Users from 50+ countries
-- ⭐ **Rating**: 4.8/5 average user rating
-
-## Tech Stack
-
-**Frontend**
-- React 18
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- Vite (build tool)
-
-**APIs**
-- OpenWeather API
-- Mapbox GL JS
-- IP Geolocation API
-
-**Tools**
-- Workbox (PWA)
-- React Query (data fetching)
-- Zustand (state management)
-
-**Hosting**
-- Netlify
-- Cloudflare CDN
-
-## Open Source
-
-This project is open source and welcomes contributions!
-
-**License**: MIT  
-**GitHub**: [alexjohnson/weather-now](https://github.com/alexjohnson/weather-now)
-
-## Lessons Learned
-
-1. **PWAs are powerful**: Service workers enable app-like experiences on the web
-2. **Performance matters**: Users notice and appreciate fast apps
-3. **Caching strategy**: Critical for offline support and API cost management
-4. **Simplicity wins**: Started with core features, added more based on user feedback
-
-## Future Plans
-
-- [ ] Weather widgets for websites
-- [ ] Social features (share weather conditions)
-- [ ] Weather photography integration
-- [ ] Apple Watch & Android Wear apps
-- [ ] Premium features (ad-free, extended forecasts)
 
 ---
+<div style="flex: 1; text-align: justify; font-size: 1.0rem; line-height: 1.6;">
+<strong style="color: #4a9fd8;">Catalyzing Knowledge, Empowering People</strong>
 
-**Status**: ✅ Live & Maintained  
-**Try it**: [weathernow-demo.netlify.app](https://weathernow-demo.netlify.app)  
-**GitHub**: [@alexjohnson/weather-now](https://github.com/alexjohnson/weather-now)
+*Teaching has always been an essential dimension of my academic identity. Trained as a licensed educator, I view education not as a parallel activity to research, but as one of its most powerful extensions — a space where knowledge multiplies and potential is activated.* <br>
+________________________________________________________________________________________________________<br>
+
+Although I have not yet held a permanent academic position, teaching has consistently been part of my formation and vocation.
+
+As a licensed educator, my training included supervised teaching internships in schools, where I experienced firsthand the transformative power of education. These early experiences shaped my conviction that educating is not merely about transmitting content — it is about awakening critical thinking, autonomy, and scientific curiosity. Teaching allows me to perceive knowledge as a living process, built collectively and capable of reshaping perspectives. During my graduate studies, I actively sought opportunities to teach at the university level. In my Master’s program, I assumed teaching responsibilities, introducing students to the fundamentals of heterogeneous catalysis and adsorption phenomena. Guiding students through these core concepts strengthened my ability to translate complex surface chemistry and catalytic mechanisms into structured and accessible learning pathways. During my PhD, I expanded this engagement further. I formally requested authorization from the Doctoral School to design and deliver short courses on:
+-Economic foundations of biomass valorization;<br> 
+-Technological prospection and innovation pathways in renewable carbon utilization.<br>
+
+This experience allowed me to integrate scientific depth with broader strategic thinking, encouraging students to connect catalysis with industrial feasibility and societal impact. 
+
+Beyond formal lectures, teaching also took place extensively in laboratory environments. I supervised and mentored undergraduate students during experimental courses, proposed and structured new laboratory experiments — an initiative that was central to my undergraduate thesis in Education — and trained new users in advanced research laboratories. These experiences refined my didactic approach, particularly in experimental instruction and safety-oriented scientific practice. Training new laboratory users across different institutions required adaptability, clarity, and intercultural communication — skills that strengthened my ability to teach diverse audiences.
+
+I hold as a personal principle the idea of <strong style="color: #4a9fd8;">catalyzing people</strong>.
+Just as catalysts lower activation barriers in chemical reactions, I believe educators can reduce barriers to learning, confidence, and scientific engagement. I find deep fulfillment in witnessing students gain autonomy, overcome intellectual challenges, and recognize their own potential. Contributing to someone’s formation — even in small but decisive moments — is one of the most meaningful dimensions of my academic journey.
+
+Teaching, for me, is not an alternative path.
+*It is a mission I am consciously cultivating alongside research.*
+
+As I continue building my academic career, I seek positions where I can fully integrate research excellence with transformative teaching — fostering environments where knowledge does not merely circulate, but evolves and empowers.
+
+---
