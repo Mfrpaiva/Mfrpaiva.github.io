@@ -24,7 +24,7 @@ links:
     url: https://shop-demo.example.com
     label: Demo
 featured: true
-status: "Live"
+status: 
 role: "Lead Developer"
 duration: "4 months"
 team_size: 2
