@@ -141,7 +141,7 @@ sections:
     id: projects
     content:
       title: "Featured Projects"
-      subtitle: "A selection of my recent work"
+      subtitle: "A selection of my initiatives"
       count: 0
       filters:
         folders:
