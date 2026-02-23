@@ -46,8 +46,8 @@ This project was not merely diagnostic; it fostered institutional dialogue and r
 _______________________________________________________________________________________________<br>
 
 <strong style="color: #4a9fd8;">Sustainability Outreach – GCVBio/UFF (2024 – Present)><br>
-Currently, as part of the GCVBio-UFF team, I coordinate and contribute to an extension project focused on:<br>
--Dissemination of sustainability, circular economy, and green chemistry concepts to the community of Niterói (RJ, Brazil).<br>
+Currently, as part of the GCVBio-UFF team, I contribute to an extension project focused on:<br>
+-🍃Dissemination of sustainability, circular economy, and green chemistry concepts to the community of Niterói (RJ, Brazil).<br>
 
 This initiative promotes:<br>
 -Environmental education for high school students;<br>
@@ -60,7 +60,7 @@ By integrating research, education, and public engagement, this project strength
 _______________________________________________________________________________________________<br>
 
 <strong style="color: #4a9fd8;">International Outreach & Interdisciplinary Engagement – Université de Lille><br>
-During my PhD at Université de Lille, I actively participated in the interdisciplinary program: **Science for a Changing Planet (SCP)** <br>
+During my PhD at Université de Lille, I actively participated in the interdisciplinary program: **Science for a Changing Planet (SCP)** 🌎👨‍🔬<br>
 
 This initiative integrated environmental sciences, climate change research, and sustainability, preparing researchers to address complex global challenges. Within this framework, I:<br>
 -Mentored incoming Master’s students in Chemistry;<br>
