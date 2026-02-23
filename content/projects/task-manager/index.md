@@ -113,7 +113,7 @@ My early research focused on:
 -Keggin-type heteropolyacid synthesis;<br>
 -Supported catalysts on zeolite matrices;<br>
 -Anti-leaching strategies;<br>
-- Sustainable polymer production (PLA, bio-based polyethylene)
+-Sustainable polymer production (PLA, bio-based polyethylene)
 
 These foundational studies established the principles of acid site control, catalyst stability, and green chemistry, which continue to underpin my current work.
 
