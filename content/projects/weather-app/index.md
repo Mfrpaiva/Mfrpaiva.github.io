@@ -26,7 +26,7 @@ highlights:
 <strong style="color: #4a9fd8;">Catalyzing Knowledge, Empowering People</strong>
 
 *Teaching has always been an essential dimension of my academic identity. Trained as a licensed educator, I view education not as a parallel activity to research, but as one of its most powerful extensions — a space where knowledge multiplies and potential is activated.* <br>
-________________________________________________________________________________________________________<br>
+_______________________________________________________________________________________________<br>
 
 Although I have not yet held a permanent academic position, teaching has consistently been part of my formation and vocation.
 
