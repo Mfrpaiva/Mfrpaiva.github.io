@@ -1,12 +1,12 @@
 ---
-title: "WeatherNow - Real-Time Weather App"
-date: 2024-06-10
-summary: "Beautiful weather application with real-time data, 7-day forecasts, and interactive maps"
+title: "Teaching & Academic Formation"
+date: 2026-01-10
+summary: "I view education not as a parallel activity to research, but as one of its most powerful extensions — a space where knowledge multiplies and potential is activated."
 tags:
-  - Frontend
-  - React
-  - API Integration
-  - PWA
+  - Academic Mentorship
+  - Laboratory Instruction
+  - STEM Education
+  - Innovation-Oriented Teaching
 tech_stack:
   - React
   - TypeScript
@@ -14,15 +14,8 @@ tech_stack:
   - Mapbox
   - Tailwind CSS
   - Vite
-links:
-  - type: github
-    url: https://github.com/alexjohnson/weather-now
-    label: Code
-  - type: live
-    url: https://weathernow-demo.netlify.app
-    label: Demo
 featured: false
-status: "Live"
+status: 
 role: "Solo Developer"
 duration: "3 weeks"
 team_size: 1
